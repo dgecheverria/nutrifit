@@ -1,0 +1,718 @@
+
+@font-face {
+  font-family: "nutritix-icon";
+  src: url("../../../fonts/icons/nutritix-icon-1.3.3.eot");
+  src: url("../../../fonts/icons/nutritix-icon-1.3.3.eot?#iefix") format("eot"), url("../../../fonts/icons/nutritix-icon-1.3.3.woff2") format("woff2"), url("../../../fonts/icons/nutritix-icon-1.3.3.woff") format("woff"), url("../../../fonts/icons/nutritix-icon-1.3.3.ttf") format("truetype"), url("../../../fonts/icons/nutritix-icon-1.3.3.svg#nutritix-icon-1.3.3") format("svg");
+}
+[class*=nutritix-icon-] {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.nutritix-icon-account:before {
+  content: "";
+}
+
+.nutritix-icon-address:before {
+  content: "";
+}
+
+.nutritix-icon-angle-down:before {
+  content: "";
+}
+
+.nutritix-icon-angle-left:before {
+  content: "";
+}
+
+.nutritix-icon-angle-right:before {
+  content: "";
+}
+
+.nutritix-icon-angle-up:before {
+  content: "";
+}
+
+.nutritix-icon-arrow-drop-down-fill:before {
+  content: "";
+}
+
+.nutritix-icon-arrow-left:before {
+  content: "";
+}
+
+.nutritix-icon-arrow-right:before {
+  content: "";
+}
+
+.nutritix-icon-authentic:before {
+  content: "";
+}
+
+.nutritix-icon-calendar:before {
+  content: "";
+}
+
+.nutritix-icon-calling-1:before {
+  content: "";
+}
+
+.nutritix-icon-cart:before {
+  content: "";
+}
+
+.nutritix-icon-chat:before {
+  content: "";
+}
+
+.nutritix-icon-check-square-solid:before {
+  content: "";
+}
+
+.nutritix-icon-chevron-double-left:before {
+  content: "";
+}
+
+.nutritix-icon-chevron-double-right:before {
+  content: "";
+}
+
+.nutritix-icon-clock:before {
+  content: "";
+}
+
+.nutritix-icon-close:before {
+  content: "";
+}
+
+.nutritix-icon-compare:before {
+  content: "";
+}
+
+.nutritix-icon-config:before {
+  content: "";
+}
+
+.nutritix-icon-delivery-1:before {
+  content: "";
+}
+
+.nutritix-icon-eye:before {
+  content: "";
+}
+
+.nutritix-icon-facebook-f:before {
+  content: "";
+}
+
+.nutritix-icon-featured:before {
+  content: "";
+}
+
+.nutritix-icon-filter-ul:before {
+  content: "";
+}
+
+.nutritix-icon-google-plus-g:before {
+  content: "";
+}
+
+.nutritix-icon-headphone:before {
+  content: "";
+}
+
+.nutritix-icon-heart-1:before {
+  content: "";
+}
+
+.nutritix-icon-home-1:before {
+  content: "";
+}
+
+.nutritix-icon-import:before {
+  content: "";
+}
+
+.nutritix-icon-linkedin-in:before {
+  content: "";
+}
+
+.nutritix-icon-list-ul:before {
+  content: "";
+}
+
+.nutritix-icon-mail:before {
+  content: "";
+}
+
+.nutritix-icon-map-marker-alt:before {
+  content: "";
+}
+
+.nutritix-icon-message-circle:before {
+  content: "";
+}
+
+.nutritix-icon-nutrition:before {
+  content: "";
+}
+
+.nutritix-icon-organic:before {
+  content: "";
+}
+
+.nutritix-icon-package:before {
+  content: "";
+}
+
+.nutritix-icon-payment-1:before {
+  content: "";
+}
+
+.nutritix-icon-pen:before {
+  content: "";
+}
+
+.nutritix-icon-phone:before {
+  content: "";
+}
+
+.nutritix-icon-plane:before {
+  content: "";
+}
+
+.nutritix-icon-play-1:before {
+  content: "";
+}
+
+.nutritix-icon-play-circle:before {
+  content: "";
+}
+
+.nutritix-icon-popular:before {
+  content: "";
+}
+
+.nutritix-icon-product:before {
+  content: "";
+}
+
+.nutritix-icon-quality:before {
+  content: "";
+}
+
+.nutritix-icon-quote:before {
+  content: "";
+}
+
+.nutritix-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.nutritix-icon-shopping-bag:before {
+  content: "";
+}
+
+.nutritix-icon-sliders-v:before {
+  content: "";
+}
+
+.nutritix-icon-star-alt:before {
+  content: "";
+}
+
+.nutritix-icon-support-1:before {
+  content: "";
+}
+
+.nutritix-icon-time-spare-1:before {
+  content: "";
+}
+
+.nutritix-icon-twitte-1:before {
+  content: "";
+}
+
+.nutritix-icon-visually:before {
+  content: "";
+}
+
+.nutritix-icon-360:before {
+  content: "";
+}
+
+.nutritix-icon-bars:before {
+  content: "";
+}
+
+.nutritix-icon-cart-empty:before {
+  content: "";
+}
+
+.nutritix-icon-check-square:before {
+  content: "";
+}
+
+.nutritix-icon-circle:before {
+  content: "";
+}
+
+.nutritix-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.nutritix-icon-comment:before {
+  content: "";
+}
+
+.nutritix-icon-comments:before {
+  content: "";
+}
+
+.nutritix-icon-contact:before {
+  content: "";
+}
+
+.nutritix-icon-credit-card:before {
+  content: "";
+}
+
+.nutritix-icon-dot-circle:before {
+  content: "";
+}
+
+.nutritix-icon-edit:before {
+  content: "";
+}
+
+.nutritix-icon-envelope:before {
+  content: "";
+}
+
+.nutritix-icon-expand-alt:before {
+  content: "";
+}
+
+.nutritix-icon-external-link-alt:before {
+  content: "";
+}
+
+.nutritix-icon-file-alt:before {
+  content: "";
+}
+
+.nutritix-icon-file-archive:before {
+  content: "";
+}
+
+.nutritix-icon-filter:before {
+  content: "";
+}
+
+.nutritix-icon-folder-open:before {
+  content: "";
+}
+
+.nutritix-icon-folder:before {
+  content: "";
+}
+
+.nutritix-icon-frown:before {
+  content: "";
+}
+
+.nutritix-icon-gift:before {
+  content: "";
+}
+
+.nutritix-icon-grid:before {
+  content: "";
+}
+
+.nutritix-icon-grip-horizontal:before {
+  content: "";
+}
+
+.nutritix-icon-heart-fill:before {
+  content: "";
+}
+
+.nutritix-icon-heart:before {
+  content: "";
+}
+
+.nutritix-icon-history:before {
+  content: "";
+}
+
+.nutritix-icon-home:before {
+  content: "";
+}
+
+.nutritix-icon-info-circle:before {
+  content: "";
+}
+
+.nutritix-icon-instagram:before {
+  content: "";
+}
+
+.nutritix-icon-level-up-alt:before {
+  content: "";
+}
+
+.nutritix-icon-list:before {
+  content: "";
+}
+
+.nutritix-icon-map-marker-check:before {
+  content: "";
+}
+
+.nutritix-icon-meh:before {
+  content: "";
+}
+
+.nutritix-icon-minus-circle:before {
+  content: "";
+}
+
+.nutritix-icon-minus:before {
+  content: "";
+}
+
+.nutritix-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.nutritix-icon-money-bill:before {
+  content: "";
+}
+
+.nutritix-icon-pencil-alt:before {
+  content: "";
+}
+
+.nutritix-icon-plus-circle:before {
+  content: "";
+}
+
+.nutritix-icon-plus:before {
+  content: "";
+}
+
+.nutritix-icon-random:before {
+  content: "";
+}
+
+.nutritix-icon-reply-all:before {
+  content: "";
+}
+
+.nutritix-icon-reply:before {
+  content: "";
+}
+
+.nutritix-icon-search-plus:before {
+  content: "";
+}
+
+.nutritix-icon-search:before {
+  content: "";
+}
+
+.nutritix-icon-shield-check:before {
+  content: "";
+}
+
+.nutritix-icon-shopping-basket:before {
+  content: "";
+}
+
+.nutritix-icon-shopping-cart:before {
+  content: "";
+}
+
+.nutritix-icon-sign-out-alt:before {
+  content: "";
+}
+
+.nutritix-icon-smile:before {
+  content: "";
+}
+
+.nutritix-icon-spinner:before {
+  content: "";
+}
+
+.nutritix-icon-square:before {
+  content: "";
+}
+
+.nutritix-icon-star:before {
+  content: "";
+}
+
+.nutritix-icon-store:before {
+  content: "";
+}
+
+.nutritix-icon-sync:before {
+  content: "";
+}
+
+.nutritix-icon-tachometer-alt:before {
+  content: "";
+}
+
+.nutritix-icon-thumbtack:before {
+  content: "";
+}
+
+.nutritix-icon-ticket:before {
+  content: "";
+}
+
+.nutritix-icon-times-circle:before {
+  content: "";
+}
+
+.nutritix-icon-times-square:before {
+  content: "";
+}
+
+.nutritix-icon-times:before {
+  content: "";
+}
+
+.nutritix-icon-trophy-alt:before {
+  content: "";
+}
+
+.nutritix-icon-truck:before {
+  content: "";
+}
+
+.nutritix-icon-user:before {
+  content: "";
+}
+
+.nutritix-icon-video:before {
+  content: "";
+}
+
+.nutritix-icon-wishlist-empty:before {
+  content: "";
+}
+
+.nutritix-icon-adobe:before {
+  content: "";
+}
+
+.nutritix-icon-amazon:before {
+  content: "";
+}
+
+.nutritix-icon-android:before {
+  content: "";
+}
+
+.nutritix-icon-angular:before {
+  content: "";
+}
+
+.nutritix-icon-apper:before {
+  content: "";
+}
+
+.nutritix-icon-apple:before {
+  content: "";
+}
+
+.nutritix-icon-atlassian:before {
+  content: "";
+}
+
+.nutritix-icon-behance:before {
+  content: "";
+}
+
+.nutritix-icon-bitbucket:before {
+  content: "";
+}
+
+.nutritix-icon-bitcoin:before {
+  content: "";
+}
+
+.nutritix-icon-bity:before {
+  content: "";
+}
+
+.nutritix-icon-bluetooth:before {
+  content: "";
+}
+
+.nutritix-icon-btc:before {
+  content: "";
+}
+
+.nutritix-icon-centos:before {
+  content: "";
+}
+
+.nutritix-icon-chrome:before {
+  content: "";
+}
+
+.nutritix-icon-codepen:before {
+  content: "";
+}
+
+.nutritix-icon-cpanel:before {
+  content: "";
+}
+
+.nutritix-icon-discord:before {
+  content: "";
+}
+
+.nutritix-icon-dochub:before {
+  content: "";
+}
+
+.nutritix-icon-docker:before {
+  content: "";
+}
+
+.nutritix-icon-dribbble:before {
+  content: "";
+}
+
+.nutritix-icon-dropbox:before {
+  content: "";
+}
+
+.nutritix-icon-drupal:before {
+  content: "";
+}
+
+.nutritix-icon-ebay:before {
+  content: "";
+}
+
+.nutritix-icon-facebook:before {
+  content: "";
+}
+
+.nutritix-icon-figma:before {
+  content: "";
+}
+
+.nutritix-icon-firefox:before {
+  content: "";
+}
+
+.nutritix-icon-google-plus:before {
+  content: "";
+}
+
+.nutritix-icon-google:before {
+  content: "";
+}
+
+.nutritix-icon-grunt:before {
+  content: "";
+}
+
+.nutritix-icon-gulp:before {
+  content: "";
+}
+
+.nutritix-icon-html5:before {
+  content: "";
+}
+
+.nutritix-icon-joomla:before {
+  content: "";
+}
+
+.nutritix-icon-link-brand:before {
+  content: "";
+}
+
+.nutritix-icon-linkedin:before {
+  content: "";
+}
+
+.nutritix-icon-mailchimp:before {
+  content: "";
+}
+
+.nutritix-icon-opencart:before {
+  content: "";
+}
+
+.nutritix-icon-paypal:before {
+  content: "";
+}
+
+.nutritix-icon-pinterest-p:before {
+  content: "";
+}
+
+.nutritix-icon-reddit:before {
+  content: "";
+}
+
+.nutritix-icon-skype:before {
+  content: "";
+}
+
+.nutritix-icon-slack:before {
+  content: "";
+}
+
+.nutritix-icon-snapchat:before {
+  content: "";
+}
+
+.nutritix-icon-spotify:before {
+  content: "";
+}
+
+.nutritix-icon-trello:before {
+  content: "";
+}
+
+.nutritix-icon-twitter:before {
+  content: "";
+}
+
+.nutritix-icon-vimeo:before {
+  content: "";
+}
+
+.nutritix-icon-whatsapp:before {
+  content: "";
+}
+
+.nutritix-icon-wordpress:before {
+  content: "";
+}
+
+.nutritix-icon-yoast:before {
+  content: "";
+}
+
+.nutritix-icon-youtube:before {
+  content: "";
+}
+

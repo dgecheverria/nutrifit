@@ -1,0 +1,3911 @@
+.elementor-header-account .header-group-action {
+  display: flex;
+  padding-left: 0;
+}
+.elementor-header-account .header-group-action .icon {
+  margin-left: 10px;
+}
+.elementor-header-account .header-group-action .icon img {
+  border-radius: 50%;
+}
+.elementor-header-account .header-group-action .site-header-account > a {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.8333333333;
+  text-transform: capitalize;
+  color: var(--text-light);
+}
+.elementor-header-account .header-group-action .site-header-account > a:hover {
+  text-decoration: underline;
+  color: var(--primary);
+}
+
+.opal-move-up {
+  animation-name: opalMoveUp;
+  -moz-animation-name: opalMoveUp;
+  -webkit-animation-name: opalMoveUp;
+}
+
+@-webkit-keyframes opalMoveUp {
+  from {
+    -webkit-transform: translateY(100px);
+    -ms-transform: translateY(100px);
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@-moz-keyframes opalMoveUp {
+  from {
+    -webkit-transform: translateY(100px);
+    -ms-transform: translateY(100px);
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@-ms-keyframes opalMoveUp {
+  from {
+    -webkit-transform: translateY(100px);
+    -ms-transform: translateY(100px);
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes opalMoveUp {
+  from {
+    -webkit-transform: translateY(100px);
+    -ms-transform: translateY(100px);
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+.opal-move-down {
+  animation-name: opalMoveDown;
+  -moz-animation-name: opalMoveDown;
+  -webkit-animation-name: opalMoveDown;
+}
+
+@-webkit-keyframes opalMoveDown {
+  from {
+    -webkit-transform: translateY(-100px);
+    -ms-transform: translateY(-100px);
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@-moz-keyframes opalMoveDown {
+  from {
+    -webkit-transform: translateY(-100px);
+    -ms-transform: translateY(-100px);
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@-ms-keyframes opalMoveDown {
+  from {
+    -webkit-transform: translateY(-100px);
+    -ms-transform: translateY(-100px);
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes opalMoveDown {
+  from {
+    -webkit-transform: translateY(-100px);
+    -ms-transform: translateY(-100px);
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+.opal-move-left {
+  animation-name: opalMoveLeft;
+  -moz-animation-name: opalMoveLeft;
+  -webkit-animation-name: opalMoveLeft;
+}
+
+@-webkit-keyframes opalMoveLeft {
+  from {
+    -webkit-transform: translateX(-100px);
+    -ms-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@-moz-keyframes opalMoveLeft {
+  from {
+    -webkit-transform: translateX(-100px);
+    -ms-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@-ms-keyframes opalMoveLeft {
+  from {
+    -webkit-transform: translateX(-100px);
+    -ms-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@keyframes opalMoveLeft {
+  from {
+    -webkit-transform: translateX(-100px);
+    -ms-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+.opal-move-right {
+  animation-name: opalMoveRight;
+  -moz-animation-name: opalMoveRight;
+  -webkit-animation-name: opalMoveRight;
+}
+
+@-webkit-keyframes opalMoveRight {
+  from {
+    -webkit-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@-moz-keyframes opalMoveRight {
+  from {
+    -webkit-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@-ms-keyframes opalMoveRight {
+  from {
+    -webkit-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@keyframes opalMoveRight {
+  from {
+    -webkit-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+.opal-scale-up {
+  animation-name: opalScaleUp;
+  -moz-animation-name: opalScaleUp;
+  -webkit-animation-name: opalScaleUp;
+}
+
+@-webkit-keyframes opalScaleUp {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.6);
+    -ms-transform: scale(0.6);
+    transform: scale(0.6);
+  }
+  to {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@-moz-keyframes opalScaleUp {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.6);
+    -ms-transform: scale(0.6);
+    transform: scale(0.6);
+  }
+  to {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@-ms-keyframes opalScaleUp {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.6);
+    -ms-transform: scale(0.6);
+    transform: scale(0.6);
+  }
+  to {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes opalScaleUp {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.6);
+    -ms-transform: scale(0.6);
+    transform: scale(0.6);
+  }
+  to {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.opal-flip {
+  animation-name: opalFlip;
+  -moz-animation-name: opalFlip;
+  -webkit-animation-name: opalFlip;
+}
+
+@-webkit-keyframes opalFlip {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+}
+@-moz-keyframes opalFlip {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+}
+@-ms-keyframes opalFlip {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+}
+@keyframes opalFlip {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+}
+.opal-helix {
+  animation-name: opalHelix;
+  -moz-animation-name: opalHelix;
+  -webkit-animation-name: opalHelix;
+}
+
+@-webkit-keyframes rotate {
+  from {
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -webkit-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+  }
+}
+@-moz-keyframes rotate {
+  from {
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -webkit-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+  }
+}
+@-ms-keyframes rotate {
+  from {
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -webkit-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+  }
+}
+@keyframes rotate {
+  from {
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -webkit-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+  }
+}
+.rotate {
+  -ms-animation: rotate 12s linear infinite;
+  -o-animation: rotate 12s linear infinite;
+  -moz-animation: rotate 12s linear infinite;
+  -webkit-animation: rotate 12s linear infinite;
+  animation: rotate 12s linear infinite;
+}
+
+@-webkit-keyframes opalHelix {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    opacity: 1;
+  }
+}
+@-moz-keyframes opalHelix {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    opacity: 1;
+  }
+}
+@-ms-keyframes opalHelix {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    opacity: 1;
+  }
+}
+@keyframes opalHelix {
+  from {
+    opacity: 0;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  to {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    opacity: 1;
+  }
+}
+.opal-am-popup {
+  animation: opalPopup;
+  -moz-animation-name: opalPopup;
+  -webkit-animation-name: opalPopup;
+}
+
+@-webkit-keyframes opalPopup {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.4);
+    -ms-transform: scale(0.4);
+    transform: scale(0.4);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+  }
+  70% {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: 0.8;
+    animation-timing-function: ease-out;
+    -webkit-animation-timing-function: ease-out;
+  }
+  to {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    opacity: 1;
+  }
+}
+@-moz-keyframes opalPopup {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.4);
+    -ms-transform: scale(0.4);
+    transform: scale(0.4);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+  }
+  70% {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: 0.8;
+    animation-timing-function: ease-out;
+    -webkit-animation-timing-function: ease-out;
+  }
+  to {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    opacity: 1;
+  }
+}
+@-ms-keyframes opalPopup {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.4);
+    -ms-transform: scale(0.4);
+    transform: scale(0.4);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+  }
+  70% {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: 0.8;
+    animation-timing-function: ease-out;
+    -webkit-animation-timing-function: ease-out;
+  }
+  to {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes opalPopup {
+  from {
+    opacity: 0;
+    -webkit-transform: scale(0.4);
+    -ms-transform: scale(0.4);
+    transform: scale(0.4);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+  }
+  70% {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: 0.8;
+    animation-timing-function: ease-out;
+    -webkit-animation-timing-function: ease-out;
+  }
+  to {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    opacity: 1;
+  }
+}
+.elementor-brand-item {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+.elementor-brand-item .elementor-brand-image {
+  display: flex;
+  position: relative;
+  z-index: 1;
+  justify-content: center;
+  width: 100%;
+  overflow: hidden;
+  font-size: 0;
+  transition: all ease 0.3s;
+}
+.elementor-brand-item .elementor-brand-image i {
+  font-size: 40px;
+  margin: 0 auto;
+}
+.elementor-brand-item .elementor-brand-image img {
+  opacity: 0.3;
+  margin: 0 auto;
+  filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");
+  /* Firefox 10+, Firefox on Android */
+  filter: grayscale(0%);
+  -moz-filter: grayscale(0%);
+  -ms-filter: grayscale(0%);
+  -o-filter: grayscale(0%);
+  filter: gray;
+  /* IE6-9 */
+  -webkit-filter: grayscale(0%);
+  /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+}
+.elementor-brand-item .elementor-brand-image svg path {
+  transition: all ease 0.3s;
+}
+.elementor-brand-item .elementor-brand-image .elementor-animation-hover_image {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  visibility: hidden;
+  transform: translateY(-100%);
+}
+
+.elementor-brand-wrapper .row {
+  justify-content: center;
+}
+.elementor-brand-wrapper img {
+  transition: all ease 0.3s;
+}
+.elementor-brand-wrapper .column-item {
+  margin-bottom: 30px;
+  background-color: var(--light);
+  min-height: 200px;
+}
+.elementor-brand-wrapper .column-item:nth-child(even) {
+  background-color: #EDEDED;
+}
+.elementor-brand-wrapper .column-item:hover {
+  background-color: #CCCCCC;
+}
+.elementor-brand-wrapper .column-item:hover img {
+  filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0'/></filter></svg>#grayscale");
+  filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: none;
+  /* IE6-9 */
+  zoom: 1;
+  /* needed to trigger "hasLayout" in IE if no width or height is set */
+  -webkit-filter: grayscale(100%);
+  /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+}
+.elementor-brand-wrapper .column-item:hover .elementor-animation-hover_image {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0%);
+}
+.elementor-brand-wrapper .column-item:hover .elementor-animation-main_image {
+  transform: translateY(100%);
+}
+.elementor-brand-wrapper .slick-slide {
+  position: relative;
+}
+.elementor-brand-wrapper .slick-slide:before {
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 100%;
+  background: #ebebeb;
+  position: absolute;
+}
+.elementor-brand-wrapper .slick-slide:last-child:before {
+  content: none !important;
+}
+
+.elementor-widget-nutritix-brand .nutritix-carousel .column-item {
+  margin-bottom: 0 !important;
+}
+.elementor-widget-nutritix-brand .nutritix-carousel .slick-track {
+  display: flex !important;
+  align-items: center;
+}
+
+.elementor-widget-woocommerce-breadcrumb .nutritix-woocommerce-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  margin-bottom: 18px;
+  text-transform: capitalize;
+  color: var(--accent);
+  font-family: var(--e-global-typography-accent-font-family);
+}
+.elementor-widget-woocommerce-breadcrumb .woocommerce-breadcrumb {
+  margin-bottom: 0;
+  line-height: 1.4285714286;
+  color: var(--accent);
+}
+.elementor-widget-woocommerce-breadcrumb .woocommerce-breadcrumb a {
+  color: var(--light);
+}
+.elementor-widget-woocommerce-breadcrumb .woocommerce-breadcrumb a:hover {
+  color: var(--accent);
+}
+.elementor-widget-woocommerce-breadcrumb .woocommerce-breadcrumb i {
+  font-size: 10px;
+  color: var(--accent);
+  margin: 0 10px;
+}
+
+.hidden-nutritix-title-yes .nutritix-woocommerce-title {
+  display: none;
+}
+
+.single-product .hidden-nutritix-title-single-yes .nutritix-woocommerce-title, .single-post .hidden-nutritix-title-single-yes .nutritix-woocommerce-title {
+  display: none;
+}
+
+.elementor-widget-nutritix-banner .elementor-cta__content {
+  position: relative;
+  padding: 50px;
+  align-items: flex-end;
+  align-content: flex-end;
+  text-align: right;
+}
+.elementor-widget-nutritix-banner .elementor-cta__content .elementor-cta__content-item {
+  margin-bottom: 10px;
+}
+.elementor-widget-nutritix-banner .elementor-cta__content .elementor-cta__content-item:last-child {
+  margin-bottom: 0;
+}
+.elementor-widget-nutritix-banner .elementor-cta__description {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: var(--text);
+}
+.elementor-widget-nutritix-banner .elementor-cta__subtitle {
+  font-size: 12px;
+  line-height: 2;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.elementor-widget-nutritix-banner .elementor-cta__title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.25;
+}
+.elementor-widget-nutritix-banner .elementor-button {
+  display: inline-flex;
+  position: relative;
+  padding: 6px 20px;
+  border-radius: 3px;
+  border: none;
+  font-size: 11px;
+  line-height: 2.1818181818;
+  font-weight: 600;
+  background-color: #ffffff;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transform: skewX(10deg);
+  overflow: hidden;
+}
+.elementor-widget-nutritix-banner .elementor-button > span {
+  transform: skewX(-10deg);
+}
+.elementor-widget-nutritix-banner .elementor-button:hover {
+  color: #fff;
+}
+.elementor-widget-nutritix-banner .elementor-button:hover:before {
+  width: 100%;
+  left: 0;
+  right: auto;
+}
+.elementor-widget-nutritix-banner .elementor-button:hover:after {
+  width: 100%;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-nutritix-banner .elementor-button:before, .elementor-widget-nutritix-banner .elementor-button:after {
+  content: "";
+  background-color: var(--primary);
+  z-index: -1;
+  height: 50%;
+  width: 0;
+  position: absolute;
+  transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.elementor-widget-nutritix-banner .elementor-button:before {
+  top: 0;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-nutritix-banner .elementor-button:after {
+  bottom: 0;
+  left: 0;
+  right: auto;
+}
+.elementor-widget-nutritix-banner .elementor-cta__bg-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  right: 0;
+}
+.elementor-widget-nutritix-banner.content-stretch-yes {
+  height: 100%;
+}
+.elementor-widget-nutritix-banner.content-stretch-yes .elementor-widget-container, .elementor-widget-nutritix-banner.content-stretch-yes .elementor-nutritix-banner {
+  height: 100%;
+}
+.elementor-widget-nutritix-banner:hover .elementor-cta__bg-overlay {
+  opacity: 0.5;
+}
+.elementor-widget-nutritix-banner:hover .elementor-cta__bg {
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-banner:hover .elementor-cta__subtitle span:before {
+  width: 100%;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-nutritix-banner.not-hover-divider-yes .elementor-cta__subtitle span:before {
+  content: none;
+}
+.elementor-widget-nutritix-banner.hover-box-yes:hover .elementor-button {
+  color: #fff;
+}
+.elementor-widget-nutritix-banner.hover-box-yes:hover .elementor-button:before {
+  width: 100%;
+  left: 0;
+  right: auto;
+}
+.elementor-widget-nutritix-banner.hover-box-yes:hover .elementor-button:after {
+  width: 100%;
+  right: 0;
+  left: auto;
+}
+
+.button-banner-style-nutritix-outline .elementor-button {
+  padding: 0;
+  border-radius: 0;
+  background-color: transparent;
+}
+.button-banner-style-nutritix-outline .elementor-button:hover {
+  background-color: transparent;
+}
+
+.elementor-bg-transform-move-down-custom .elementor-bg {
+  height: calc(100% + 50px);
+  -ms-transform: translateY(-50px);
+  -o-transform: translateY(-50px);
+  -moz-transform: translateY(-50px);
+  -webkit-transform: translateY(-50px);
+  transform: translateY(-50px);
+}
+.elementor-bg-transform-move-down-custom:hover .elementor-bg {
+  -ms-transform: translateY(0);
+  -o-transform: translateY(0);
+  -moz-transform: translateY(0);
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+
+.elementor-bg-transform-move-up-custom .elementor-bg {
+  height: calc(100% + 50px);
+}
+.elementor-bg-transform-move-up-custom:hover .elementor-bg {
+  -ms-transform: translateY(-50px);
+  -o-transform: translateY(-50px);
+  -moz-transform: translateY(-50px);
+  -webkit-transform: translateY(-50px);
+  transform: translateY(-50px);
+}
+
+.elementor-bg-transform-move-left-custom .elementor-bg {
+  width: calc(100% + 50px);
+}
+.elementor-bg-transform-move-left-custom:hover .elementor-bg {
+  -ms-transform: translateX(50px);
+  -o-transform: translateX(50px);
+  -moz-transform: translateX(50px);
+  -webkit-transform: translateX(50px);
+  transform: translateX(50px);
+}
+
+.elementor-bg-transform-move-right-custom .elementor-bg {
+  width: calc(100% + 50px);
+  -ms-transform: translateX(50px);
+  -o-transform: translateX(50px);
+  -moz-transform: translateX(50px);
+  -webkit-transform: translateX(50px);
+  transform: translateX(50px);
+}
+.elementor-bg-transform-move-right-custom:hover .elementor-bg {
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+}
+
+.elementor-bg-transform-zoom-in:hover .elementor-bg {
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.elementor-bg-transform-zoom-out .elementor-bg {
+  width: calc(100% + 50px);
+  -ms-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.elementor-bg-transform-zoom-out:hover .elementor-bg {
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  -moz-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+.elementor-cta {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.elementor-cta--skin-classic .elementor-cta {
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.elementor-cta--skin-classic .elementor-cta__bg-wrapper {
+  position: relative;
+  min-height: 200px;
+  width: 100%;
+}
+.elementor-cta--skin-classic .elementor-cta__content {
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+  width: 100%;
+}
+
+.elementor-cta--skin-cover .elementor-cta {
+  display: block;
+}
+.elementor-cta--skin-cover .elementor-cta__bg-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  -webkit-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+  width: 100%;
+}
+.elementor-cta--skin-cover .elementor-cta__content {
+  min-height: 280px;
+}
+
+.elementor-cta--layout-image-above .elementor-cta {
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.elementor-cta--layout-image-above .elementor-cta__bg-wrapper {
+  width: 100%;
+}
+
+.elementor-cta--layout-image-left .elementor-cta, .elementor-cta--layout-image-right .elementor-cta {
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.elementor-cta--layout-image-left .elementor-cta__bg-wrapper, .elementor-cta--layout-image-right .elementor-cta__bg-wrapper {
+  width: auto;
+  min-width: 50%;
+}
+
+.elementor-cta--layout-image-left .elementor-cta__content, .elementor-cta--layout-image-right .elementor-cta__content {
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.elementor-cta--layout-image-left .elementor-cta {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.elementor-cta--layout-image-right .elementor-cta {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+.elementor-cta__bg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  transition: transform calc(700ms * 1.5) cubic-bezier(0.19, 1, 0.22, 1);
+  transition: all 0.2s ease;
+}
+
+.elementor-cta__bg-wrapper {
+  z-index: 1;
+  overflow: hidden;
+}
+
+.elementor-cta__bg {
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.elementor-cta__bg-overlay {
+  z-index: 2;
+}
+
+.elementor-cta__content {
+  z-index: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  padding: 50px;
+  width: 100%;
+}
+
+.elementor-cta__content, .elementor-cta__content-item {
+  position: relative;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.elementor-cta__content-item {
+  width: 100%;
+  margin: 0;
+}
+
+.elementor-cta__content-item {
+  margin-bottom: 15px;
+}
+.elementor-cta__content-item:last-child {
+  margin-bottom: 0;
+}
+
+.elementor-widget-nutritix-banner.elementor-cta--valign-top .elementor-cta__content {
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.elementor-widget-nutritix-banner.elementor-cta--valign-middle .elementor-cta__content {
+  -ms-flex-line-pack: center;
+  align-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.elementor-widget-nutritix-banner.elementor-cta--valign-bottom .elementor-cta__content {
+  -ms-flex-line-pack: end;
+  align-content: flex-end;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+}
+
+@media (max-device-width: 1024px) {
+  .elementor-cta {
+    cursor: pointer;
+  }
+}
+.wpcf7-form {
+  margin: 0;
+}
+.wpcf7-form .wpcf7-form-control-wrap {
+  width: 100%;
+  display: block;
+}
+.wpcf7-form .wpcf7-form-control-wrap input[type=text], .wpcf7-form .wpcf7-form-control-wrap input[type=number], .wpcf7-form .wpcf7-form-control-wrap input[type=email], .wpcf7-form .wpcf7-form-control-wrap input[type=tel], .wpcf7-form .wpcf7-form-control-wrap input[type=url],
+.wpcf7-form .wpcf7-form-control-wrap input[type=password], .wpcf7-form .wpcf7-form-control-wrap input[type=search], .wpcf7-form .wpcf7-form-control-wrap .input-text {
+  width: 100%;
+  height: 100%;
+  border-width: 1px;
+  color: #000000;
+  font-size: 14px;
+  padding: 14px 30px;
+}
+.wpcf7-form .wpcf7-form-control-wrap textarea {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  color: #000000;
+  font-size: 14px;
+  border-width: 1px;
+  resize: none;
+  padding: 24px 26px;
+  overflow: hidden;
+}
+.wpcf7-form .row [class*=" column-"], .wpcf7-form .row [class^=column-] {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+.wpcf7-form .wpcf7-button button, .wpcf7-form .wpcf7-button input[type=button], .wpcf7-form .wpcf7-button input[type=reset], .wpcf7-form .wpcf7-button input[type=submit], .wpcf7-form .wpcf7-button .button {
+  background-color: var(--accent);
+  padding: 16px 35px;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+  line-height: 2.1818181818;
+}
+.wpcf7-form .wpcf7-button button i, .wpcf7-form .wpcf7-button input[type=button] i, .wpcf7-form .wpcf7-button input[type=reset] i, .wpcf7-form .wpcf7-button input[type=submit] i, .wpcf7-form .wpcf7-button .button i {
+  font-size: 12px;
+  margin-right: 10px;
+  overflow: hidden;
+}
+.wpcf7-form .wpcf7-button button:hover, .wpcf7-form .wpcf7-button input[type=button]:hover, .wpcf7-form .wpcf7-button input[type=reset]:hover, .wpcf7-form .wpcf7-button input[type=submit]:hover, .wpcf7-form .wpcf7-button .button:hover {
+  transition: all 0.3s ease;
+  border-color: var(--primary_hover);
+  background-color: var(--primary_hover);
+}
+@media (max-width: 767px) {
+  .wpcf7-form .wpcf7-button button, .wpcf7-form .wpcf7-button input[type=button], .wpcf7-form .wpcf7-button input[type=reset], .wpcf7-form .wpcf7-button input[type=submit], .wpcf7-form .wpcf7-button .button {
+    width: 100%;
+  }
+}
+.wpcf7-form .wpcf7-button .wpcf7-spinner {
+  position: absolute;
+}
+.wpcf7-form .wpcf7-list-item {
+  margin: 0 0 20px;
+}
+.wpcf7-form .wpcf7-list-item input[type=checkbox] {
+  margin-left: 10px;
+}
+.wpcf7-form .ct-form-style .wpcf7-button button, .wpcf7-form .ct-form-style .wpcf7-button input[type=button], .wpcf7-form .ct-form-style .wpcf7-button input[type=submit] {
+  width: 100%;
+  display: block;
+  background-color: var(--primary);
+}
+.wpcf7-form .ct-form-style .wpcf7-button button:hover, .wpcf7-form .ct-form-style .wpcf7-button input[type=button]:hover, .wpcf7-form .ct-form-style .wpcf7-button input[type=submit]:hover {
+  transition: all 0.3s ease;
+  background-color: var(--primary_hover);
+}
+.wpcf7-form .ct-form-style .wpcf7-form-control-wrap {
+  width: 100%;
+  display: block;
+}
+.wpcf7-form .ct-form-style .wpcf7-form-control-wrap input[type=text], .wpcf7-form .ct-form-style .wpcf7-form-control-wrap input[type=email] {
+  font-weight: 400;
+  border-width: 0px 0px 1px 0px;
+  font-size: 12px;
+  padding: 15px 0px;
+  border-radius: 0px;
+  background-color: transparent;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.elementor-widget-nutritix-countdown .countdown-inner {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.elementor-widget-nutritix-countdown .elementor-nutritix-countdown {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+}
+.elementor-widget-nutritix-countdown .elementor-countdown-item {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  margin-left: -1px;
+  min-width: 50px;
+}
+.elementor-widget-nutritix-countdown .elementor-countdown-item:last-child {
+  margin-left: 0;
+}
+.elementor-widget-nutritix-countdown .elementor-countdown-label {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 1.714;
+  text-align: center;
+  text-transform: uppercase;
+}
+.elementor-widget-nutritix-countdown .elementor-countdown-digits {
+  width: 50px;
+  height: 46px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 43px;
+  text-align: center;
+  border-radius: 3px 16px;
+  color: #fff;
+  position: relative;
+  background-color: transparent;
+  z-index: 1;
+}
+.elementor-widget-nutritix-countdown .elementor-countdown-digits:after {
+  position: absolute;
+  border-radius: 3px;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  content: "";
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  transform: skewX(10deg) scaleX(0.955);
+  transform-origin: bottom right;
+  transition: all ease 0.3s;
+  border: 1px solid transparent;
+}
+.elementor-widget-nutritix-countdown .elementor-countdown-digits:after {
+  background-color: var(--primary);
+}
+.elementor-widget-nutritix-countdown .countdown-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-left: 20px;
+  color: var(--accent);
+}
+
+.elementor-widget-nutritix-dokan-stores .column-item {
+  margin-bottom: 30px;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .count {
+  display: none;
+  min-width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  background: #E6E6E6;
+  padding: 0 9px;
+  border-radius: 40px;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .seller-avatar {
+  width: 70px;
+  height: 70px;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .seller-avatar img {
+  border-radius: 50%;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .store-data h3 {
+  font-size: 16px;
+  line-height: 1.25;
+  margin-bottom: 0;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .store-data .product-count {
+  line-height: 1.4285714286;
+  color: var(--light);
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .dokan-seller-rating,
+.elementor-widget-nutritix-dokan-stores .store-wrapper .profile-info-img {
+  display: none;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .dokan-seller-rating {
+  line-height: 1;
+  margin-top: 6px;
+}
+.elementor-widget-nutritix-dokan-stores .store-wrapper .dokan-seller-rating i {
+  width: 14px;
+  height: 14px;
+  color: #FA9A00;
+  font-size: 14px;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .store-wrapper {
+  border-radius: 4px;
+  background: #fff;
+  overflow: hidden;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .profile-info-img {
+  display: block;
+  padding-top: 48%;
+  position: relative;
+  width: 100%;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .profile-info-img.dummy-image {
+  background-image: url(../../../../../plugins/dokan-lite/assets/images/default-store-banner.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .profile-info-img img {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .seller-avatar {
+  padding: 6px;
+  background: #fff;
+  margin: -35px auto 21px;
+  z-index: 4;
+  position: relative;
+  border-radius: 50%;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .seller-avatar img {
+  border-radius: 50%;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .store-data {
+  padding: 0 24px 24px;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-1 .store-wrapper {
+  text-align: center;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .store-wrapper, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .store-wrapper {
+  display: flex;
+  align-items: center;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .seller-avatar, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .seller-avatar {
+  margin-left: 20px;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .dokan-seller-rating, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .dokan-seller-rating {
+  display: block;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .product-count, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .product-count {
+  display: inline;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .product-count:before, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .product-count:before {
+  content: "(";
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .product-count:after, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .product-count:after {
+  content: ")";
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .store-data h3, .elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .store-data h3 {
+  display: inline;
+  margin-left: 6px;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .store-wrapper {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .store-wrapper .count {
+  margin: -6px;
+  display: block;
+  z-index: 9;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .dokan-single-seller {
+  margin-bottom: 0;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .dokan-single-seller .store-wrapper {
+  border-bottom: 1px solid var(--border);
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .dokan-single-seller:first-child .store-wrapper .count {
+  background: var(--primary);
+  color: #fff;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-2 .dokan-single-seller:last-child .store-wrapper {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+.elementor-widget-nutritix-dokan-stores.elementor-store-style-3 .store-data h3 {
+  font-weight: 400;
+}
+.elementor-widget-nutritix-dokan-stores .product-wrapper {
+  display: grid;
+  grid-gap: 12px;
+  grid-template-columns: repeat(3, 1fr);
+  margin-bottom: 20px;
+}
+.elementor-widget-nutritix-dokan-stores .product-wrapper .product-item:first-child {
+  grid-column-end: 2 span;
+  grid-row-end: 2 span;
+}
+.elementor-widget-nutritix-dokan-stores .product-wrapper .product-item a {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  display: block;
+}
+.elementor-widget-nutritix-dokan-stores .product-wrapper .product-item a:hover {
+  border-color: var(--primary);
+}
+
+.elementor-header-group-wrapper .header-group-action {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-left: 0;
+}
+.elementor-header-group-wrapper .header-group-action > div {
+  position: relative;
+  margin-left: 13px;
+  margin-right: 13px;
+  text-align: center;
+}
+.elementor-header-group-wrapper .header-group-action > div:first-child {
+  margin-right: 0;
+}
+.elementor-header-group-wrapper .header-group-action > div:last-child {
+  margin-left: 0;
+}
+.elementor-header-group-wrapper .header-group-action .site-header-cart .count {
+  bottom: -6px;
+}
+.elementor-header-group-wrapper .header-group-action .site-header-cart .cart-contents {
+  line-height: 1;
+}
+.elementor-header-group-wrapper .header-group-action .site-header-cart .woocommerce-Price-amount {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1;
+}
+.elementor-header-group-wrapper .site-header-account a .account-content {
+  display: none;
+}
+.elementor-header-group-wrapper .site-header-account .account-dropdown.active {
+  pointer-events: auto;
+  opacity: 1;
+  visibility: visible;
+  z-index: 9999;
+}
+
+.elementor-widget-opal-image-gallery .grid__item a {
+  display: block;
+}
+.elementor-widget-opal-image-gallery .grid__item a img {
+  display: block;
+}
+
+.elementor-widget-nutritix-image-gallery ul {
+  margin: 0 0 65px 0;
+}
+.elementor-widget-nutritix-image-gallery .column-item {
+  padding-bottom: 30px;
+}
+.elementor-widget-nutritix-image-gallery .column-item a {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  border-radius: 5px;
+}
+.elementor-widget-nutritix-image-gallery .column-item a:hover:before {
+  opacity: 0.6;
+}
+.elementor-widget-nutritix-image-gallery .column-item a:hover:after {
+  opacity: 1;
+}
+.elementor-widget-nutritix-image-gallery .column-item a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  right: 0;
+  top: 0;
+  opacity: 0;
+  background-color: #000000;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-image-gallery .column-item a:after {
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  font-size: 25px;
+  opacity: 0;
+  transition: all 0.3s ease;
+  transform: translate(50%, -50%);
+  color: #ffffff;
+}
+.elementor-widget-nutritix-image-gallery .column-item img {
+  display: block;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-image-gallery .column-item:nth-child(even) {
+  margin-top: 30px;
+}
+.elementor-widget-nutritix-image-gallery .elementor-galerry__filter {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 7px 21px;
+  margin: 0 5px;
+  position: relative;
+  cursor: pointer;
+  outline: 0;
+  border: none;
+  border-radius: 5px;
+  color: var(--text);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-image-gallery .elementor-galerry__filter .count {
+  display: none;
+  font-size: 14px;
+  color: var(--accent);
+  position: absolute;
+  top: -10px;
+}
+.elementor-widget-nutritix-image-gallery .elementor-galerry__filter.elementor-active, .elementor-widget-nutritix-image-gallery .elementor-galerry__filter:hover {
+  color: var(--primary);
+  background-color: rgba(244, 195, 64, 0.2);
+}
+
+.elementor-image-gallery {
+  position: relative;
+}
+
+.elementor-editor-active .isotope-grid {
+  height: auto !important;
+}
+.elementor-editor-active .isotope-grid .grid__item > a {
+  pointer-events: none;
+}
+
+.elementor-galerry__filters {
+  list-style: none;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.elementor-filter-left .elementor-galerry__filters {
+  justify-content: flex-start;
+}
+
+.elementor-filter-right .elementor-galerry__filters {
+  justify-content: flex-end;
+}
+
+.elementor-widget-nutritix-image-gallery .nutritix-carousel .slick-list {
+  overflow: visible;
+}
+
+.form-style .mc4wp-form {
+  margin: 0;
+}
+.form-style .mc4wp-form .form-input {
+  flex: 1;
+}
+.form-style .mc4wp-form .mc4wp-form-fields {
+  display: flex;
+  position: relative;
+  background-color: transparent;
+  z-index: 1;
+}
+.form-style .mc4wp-form .mc4wp-form-fields:after {
+  position: absolute;
+  border-radius: 3px;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  content: "";
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  transform: skewX(10deg) scaleX(0.955);
+  transform-origin: bottom right;
+  transition: all ease 0.3s;
+  border: 1px solid transparent;
+}
+.form-style .mc4wp-form .mc4wp-form-fields:after {
+  background-color: #fff;
+  top: 0;
+  height: calc(100% - 0.5px);
+  border: none;
+}
+.form-style .mc4wp-form .mc4wp-form-fields p {
+  margin: 0;
+}
+.form-style .mc4wp-form input[type=email] {
+  width: 100%;
+  font-size: 12px;
+  line-height: 1.8333333333;
+  color: var(--accent);
+  background-color: transparent;
+  border: 0;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+.form-style .mc4wp-form input[type=email]::placeholder {
+  color: var(--text-light);
+}
+.form-style .mc4wp-form button[type=submit],
+.form-style .mc4wp-form input[type=submit] {
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 2.1818181818;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 10px 25px;
+  border: none;
+  background-color: var(--primary);
+  transition: transform 0.3s ease;
+}
+.form-style .mc4wp-form button[type=submit]:hover,
+.form-style .mc4wp-form input[type=submit]:hover {
+  background-color: var(--primary_hover);
+}
+.form-style .mc4wp-form button[type=submit]:hover i:before,
+.form-style .mc4wp-form input[type=submit]:hover i:before {
+  animation: toRightFromLeft 0.3s forwards;
+  display: block;
+}
+.form-style .mc4wp-alert.mc4wp-error {
+  color: #e2401c;
+}
+.form-style .mc4wp-alert.mc4wp-success {
+  color: #0f834d;
+}
+.form-style .mc4wp-alert a {
+  color: var(--primary);
+}
+.form-style .mc4wp-alert a:hover {
+  color: var(--primary_hover);
+}
+
+.form-mailchimp-style-2 .mc4wp-form-fields {
+  position: relative;
+}
+.form-mailchimp-style-2 .form-style input[type=email] {
+  margin-left: 0;
+}
+.form-mailchimp-style-2 .form-style button[type=submit] {
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  padding: 0;
+  color: var(--primary);
+  background-color: transparent;
+}
+.form-mailchimp-style-2 .form-style button[type=submit]:hover {
+  background-color: transparent;
+}
+
+.form-mailchimp-style-3 .form-style .mc4wp-form-fields {
+  display: block;
+}
+.form-mailchimp-style-3 .form-style input[type=email] {
+  margin-left: 0;
+  margin-bottom: 20px;
+}
+
+.elementor-canvas-menu-wrapper {
+  display: flex;
+}
+.elementor-canvas-menu-wrapper .menu-mobile-nav-button {
+  display: inline-flex;
+  align-items: center;
+}
+.elementor-canvas-menu-wrapper .menu-mobile-nav-button .screen-reader-text {
+  position: unset !important;
+  word-wrap: unset !important;
+  margin: 0;
+  height: unset;
+  width: unset;
+  clip: unset;
+  overflow: unset;
+  clip-path: unset;
+  order: 1;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.elementor-canvas-menu-wrapper .menu-mobile-nav-button:hover .screen-reader-text {
+  color: var(--primary);
+}
+
+.nutritix-canvas-menu-layout-2.elementor-widget-nutritix-menu-canvas .elementor-canvas-menu-wrapper .menu-mobile-nav-button .screen-reader-text {
+  display: none;
+}
+.nutritix-canvas-menu-layout-2.elementor-widget-nutritix-menu-canvas .elementor-canvas-menu-wrapper .menu-mobile-nav-button .nutritix-icon {
+  margin-left: 0;
+}
+
+@media (min-width: 768px) {
+  .elementor-nav-menu-wrapper .main-navigation ul.menu ul.sub-menu.mega-menu ul.products, .elementor-nav-menu-wrapper .main-navigation ul.menu ul.sub-menu.mega-menu .wc-block-grid__products {
+    display: flex;
+  }
+  .elementor-nav-menu-wrapper .main-navigation ul.menu ul.sub-menu.mega-menu ul.products li.product {
+    min-width: unset;
+  }
+  .elementor-nav-menu-wrapper .main-navigation ul.menu ul.sub-menu.mega-menu ul.products li.product h3 a {
+    display: block;
+  }
+}
+[class*=post-style-].column-item {
+  margin-bottom: 30px;
+}
+[class*=post-style-] .entry-title {
+  font-size: 28px;
+  line-height: 1;
+  margin-bottom: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+[class*=post-style-] .entry-content {
+  padding-left: 40px;
+}
+[class*=post-style-].post-style-2 .post-inner {
+  position: relative;
+}
+[class*=post-style-].post-style-2 .post-inner:hover a.more-link {
+  color: #ffffff;
+  background-color: var(--primary);
+}
+[class*=post-style-].post-style-2 .entry-title a {
+  color: #ffffff;
+}
+[class*=post-style-].post-style-2 .entry-title a:hover {
+  color: var(--primary);
+}
+[class*=post-style-].post-style-2 a.more-link:after {
+  background-color: #ffffff;
+}
+[class*=post-style-].post-style-2 .post-thumbnail {
+  position: relative;
+  margin-bottom: 0;
+  padding-top: 130%;
+  width: 100%;
+}
+[class*=post-style-].post-style-2 .post-thumbnail img {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+[class*=post-style-].post-style-2 .post-thumbnail:before {
+  content: "";
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  border-radius: 5px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+[class*=post-style-].post-style-2 .more-link-wrap {
+  margin-top: 0;
+}
+[class*=post-style-].post-style-2 .entry-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  padding: 30px;
+}
+@media (min-width: 1024px) {
+  [class*=post-style-].post-style-2 .entry-content {
+    padding: 50px;
+  }
+}
+[class*=post-style-].post-style-2 .entry-content:before, [class*=post-style-].post-style-2 .entry-content:after {
+  content: none;
+}
+
+.elementor-widget-nutritix-product-categories .column-item:hover {
+  z-index: 9;
+}
+.elementor-widget-nutritix-product-categories .category-product-img {
+  display: block;
+}
+.elementor-widget-nutritix-product-categories .category-product-img img {
+  margin: auto;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-product-categories .cat-title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 2.1428571429;
+  color: var(--text);
+}
+.elementor-widget-nutritix-product-categories .cat-total {
+  font-size: 14px;
+  line-height: 1.5714285714;
+  font-weight: 500;
+  color: var(--text);
+}
+.elementor-widget-nutritix-product-categories .product-cat-link {
+  display: block;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .product-cat-link {
+  position: relative;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .product-cat-link:hover .category-product-img img {
+  -ms-transform: scale(1.13);
+  -o-transform: scale(1.13);
+  -moz-transform: scale(1.13);
+  -webkit-transform: scale(1.13);
+  transform: scale(1.13);
+}
+.elementor-widget-nutritix-product-categories .layout-1 .product-cat-link:hover .category-product-img:before {
+  background-color: rgba(0, 0, 0, 0.8);
+  -ms-transform: scaleY(1.13);
+  -o-transform: scaleY(1.13);
+  -moz-transform: scaleY(1.13);
+  -webkit-transform: scaleY(1.13);
+  transform: scaleY(1.13);
+}
+.elementor-widget-nutritix-product-categories .layout-1 .category-product-img {
+  overflow-x: clip;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .category-product-img img {
+  width: 100%;
+  object-fit: cover;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .category-product-img:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .product-cat-link {
+  position: relative;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .product-cat-caption {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 5;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .cat-title {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 36px;
+  line-height: 1;
+  font-weight: 700;
+  color: #ffffff;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .cat-total {
+  display: none;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .cat-des {
+  display: inline-block;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: white;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .cat-des:before {
+  width: 100%;
+  height: 1px;
+  background: var(--primary);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  content: "";
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: -1;
+}
+.elementor-widget-nutritix-product-categories .layout-1 .cat-des:hover:before {
+  height: 100%;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-product-categories .layout-2 .category-product-img {
+  margin-bottom: 10px;
+}
+.elementor-widget-nutritix-product-categories .layout-2 .cat-title {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.5714285714;
+  color: var(--accent);
+}
+.elementor-widget-nutritix-product-categories .layout-2 .product-cat-link:hover .category-product-img img {
+  transform: scale(1.1);
+}
+.elementor-widget-nutritix-product-categories .layout-2 .product-cat-link:hover .cat-title {
+  color: var(--primary);
+}
+.elementor-widget-nutritix-product-categories .layout-2 .category-product-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  color: var(--primary);
+  background-color: #F0F2F5;
+}
+.elementor-widget-nutritix-product-categories .layout-2 .category-product-icon i {
+  font-size: 16px;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .cat-total {
+  display: none;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .cat-des {
+  display: inline-block;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .cat-des:before {
+  width: 100%;
+  height: 1px;
+  background: var(--primary);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  content: "";
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .product-cat-link {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  justify-content: space-between;
+  min-height: 370px;
+  background-color: #EFEFEF;
+  overflow: hidden;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .product-cat-link:hover {
+  background-color: var(--primary);
+}
+.elementor-widget-nutritix-product-categories .layout-3 .product-cat-link:hover .cat-title, .elementor-widget-nutritix-product-categories .layout-3 .product-cat-link:hover .cat-des {
+  color: #fff;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .product-cat-link:hover .cat-des:before {
+  background-color: white;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .product-cat-link:hover .category-product-img {
+  -ms-transform: translateY(0px);
+  -o-transform: translateY(0px);
+  -moz-transform: translateY(0px);
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+}
+.elementor-widget-nutritix-product-categories .layout-3 .cat-title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1;
+  color: var(--accent);
+  padding-top: 45px;
+}
+.elementor-widget-nutritix-product-categories .layout-3 .category-product-img {
+  -ms-transform: translateY(40px);
+  -o-transform: translateY(40px);
+  -moz-transform: translateY(40px);
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+  .mobile-switcher-style-product-yes.elementor-widget-nutritix-products-tabs ul.products li.product {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+}
+@media (min-width: 500px) and (max-width: 767px) {
+  .mobile-switcher-style-product-yes.elementor-widget-nutritix-products-tabs .woocommerce-carousel ul.products li.product {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tabs-wrapper {
+  display: flex;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tabs-header {
+  display: flex;
+  flex-wrap: wrap;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-title {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 3px 16px;
+  margin: 0 3px;
+  cursor: pointer;
+  outline: 0;
+  border-radius: 3px;
+  color: var(--text-light);
+  background-color: transparent;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  transform: skewX(10deg);
+  overflow: hidden;
+  border: 1px solid transparent;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-title > div {
+  transform: skewX(-10deg);
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-title:last-child {
+  margin-left: 0 !important;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-title:first-child {
+  margin-right: 0 !important;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-title:hover, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-title.elementor-active {
+  color: #ffffff;
+  background-color: #000000;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .product-tab-title {
+  margin-bottom: 0;
+  font-size: 28px;
+  margin-left: 28px;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .product-tab-button {
+  font-size: 12px;
+  color: var(--light);
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .product-tab-button i {
+  margin-right: 10px;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .product-tab-button:hover {
+  color: var(--primary);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tab-content {
+  border: 0;
+  padding-top: 30px;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-horizontal .elementor-tabs-content-wrapper {
+  border: none;
+}
+@media (min-width: 768px) {
+  .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tabs {
+    display: flex;
+  }
+  .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tabs-content-wrapper {
+    flex: 1;
+  }
+  .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tabs-header {
+    margin-left: 70px;
+  }
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .product-tab-title {
+  position: relative;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1;
+  padding-bottom: 25px;
+  margin-bottom: 15px;
+  color: var(--accent);
+  display: flex;
+  align-items: center;
+  font-family: var(--e-global-typography-accent-font-family);
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .product-tab-title i {
+  font-size: 18px;
+  margin-right: 10px;
+  color: var(--primary);
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .product-tab-title:before {
+  content: "";
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: #000000;
+  -webkit-clip-path: polygon(2px 0, 100% 0, calc(100% - 2px) 100%, 0 100%);
+  clip-path: polygon(2px 0, 100% 0, calc(100% - 2px) 100%, 0 100%);
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tabs-wrapper {
+  display: block;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  position: relative;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.6666666667;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  width: 190px;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-light);
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:before {
+  content: "";
+  position: absolute;
+  height: 6px;
+  width: 0;
+  right: 0;
+  top: 50%;
+  opacity: 0;
+  transform: translateY(-50%);
+  background-color: var(--primary);
+  transition: all 0.3s ease;
+  -webkit-clip-path: polygon(2px 0, 100% 0, calc(100% - 2px) 100%, 0 100%);
+  clip-path: polygon(2px 0, 100% 0, calc(100% - 2px) 100%, 0 100%);
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:hover, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:focus, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:active, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title.elementor-active {
+  color: var(--accent);
+  padding-right: 25px;
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:hover:before, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:focus:before, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title:active:before, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title.elementor-active:before {
+  opacity: 1;
+  width: 8px;
+}
+@media (max-width: 767px) {
+  .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-title {
+    width: 100%;
+  }
+}
+.elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tab-content, .elementor-widget-nutritix-products-tabs.elementor-tabs-view-vertical .elementor-tabs-content-wrapper {
+  border: none;
+  padding: 0;
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 2.1818181818;
+  border-radius: 3px;
+  padding: 12px 40px;
+  margin-top: 25px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  transform: skewX(10deg);
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button span {
+  display: block;
+  transform: skewX(-10deg);
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button:hover {
+  color: #ffffff;
+  border-color: var(--primary);
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button:hover:before {
+  width: 100%;
+  left: 0;
+  right: auto;
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button:hover:after {
+  width: 100%;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button:before, .elementor-widget-nutritix-products-tabs .product-tab-button:after {
+  content: "";
+  background-color: var(--primary);
+  z-index: -1;
+  height: 50%;
+  width: 0;
+  position: absolute;
+  transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button:before {
+  top: 0;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-nutritix-products-tabs .product-tab-button:after {
+  bottom: 0;
+  left: 0;
+  right: auto;
+}
+
+.elementor-html .site-content-contain {
+  z-index: 100;
+}
+.elementor-html .product-image.no-gallery {
+  display: none !important;
+}
+
+.products-block-style--2-hidden-yes .woocommerce-carousel .slick-list {
+  overflow: visible;
+}
+.products-block-style--2-hidden-yes .woocommerce-carousel .slick-slide:not(.slick-active) {
+  opacity: 0;
+  visibility: hidden;
+}
+.products-block-style--2-hidden-yes .woocommerce-carousel .slick-slide.slick-active ~ .slick-slide {
+  opacity: 1;
+  visibility: visible;
+}
+
+.woocommerce-carousel {
+  position: relative;
+}
+.woocommerce-carousel ul.products {
+  display: none;
+  position: static !important;
+}
+.woocommerce-carousel ul.products.slick-initialized {
+  display: block;
+}
+.woocommerce-carousel ul.products li.product {
+  margin: 0 !important;
+}
+.woocommerce-carousel .slick-slide > div {
+  display: flex;
+  height: 100%;
+}
+.woocommerce-carousel .slick-next.slick-disabled, .woocommerce-carousel .slick-prev.slick-disabled {
+  opacity: 0.8;
+  cursor: not-allowed;
+}
+@media (max-width: 567px) {
+  .woocommerce-carousel .slick-arrow {
+    display: none !important;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+  .mobile-switcher-style-product-yes.elementor-widget-nutritix-products ul.products li.product {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+}
+@media (min-width: 500px) and (max-width: 767px) {
+  .mobile-switcher-style-product-yes.elementor-widget-nutritix-products .woocommerce-carousel ul.products li.product {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+.elementor-widget-nutritix-products-tabs .product-block-list,
+.elementor-widget-nutritix-products .product-block-list {
+  display: flex;
+  align-items: center;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list .right,
+.elementor-widget-nutritix-products .product-block-list .right {
+  padding: 10px 0 10px 25px;
+  flex: 1;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list .left,
+.elementor-widget-nutritix-products .product-block-list .left {
+  margin-left: 30px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list .left a,
+.elementor-widget-nutritix-products .product-block-list .left a {
+  position: relative;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list img,
+.elementor-widget-nutritix-products .product-block-list img {
+  object-fit: cover;
+  width: 100%;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-4,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-4 {
+  background-color: #F4F4F4;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-4 .left,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-4 .left {
+  max-width: 150px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-4 .count-review,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-4 .count-review {
+  margin-bottom: 3px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-1,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-1 {
+  background-color: #ffffff;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-1 .left,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-1 .left {
+  max-width: 150px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-1 .count-review,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-1 .count-review {
+  margin-bottom: 3px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-2 .left,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-2 .left {
+  margin-left: 24px;
+  max-width: 110px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-2 .woocommerce-loop-product__title,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-2 .woocommerce-loop-product__title {
+  margin-bottom: 12px;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 {
+  background-color: #F4F4F4;
+}
+@media (max-width: 567px) {
+  .elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 {
+    flex-direction: column;
+  }
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3 .left,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 .left {
+  max-width: 260px;
+}
+@media (max-width: 567px) {
+  .elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3 .left,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 .left {
+    margin-left: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3 .right,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 .right {
+  max-width: 305px;
+}
+@media (max-width: 567px) {
+  .elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3 .right,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 .right {
+    width: 100%;
+    max-width: 100%;
+    padding: 30px;
+  }
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3 .deal-sold,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 .deal-sold {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.elementor-widget-nutritix-products-tabs .product-block-list.product-block-list-3 .woocommerce-loop-product__title,
+.elementor-widget-nutritix-products .product-block-list.product-block-list-3 .woocommerce-loop-product__title {
+  font-size: 18px;
+}
+
+.elementor-widget-nutritix-search {
+  z-index: 99;
+}
+.elementor-widget-nutritix-search .widget {
+  padding: 0;
+  margin-bottom: 0;
+  border: none;
+}
+.elementor-widget-nutritix-search .widget_product_search form input[type=search],
+.elementor-widget-nutritix-search .site-search form input[type=search] {
+  border-width: 1px;
+  padding: 8px 25px 12px 25px;
+  padding-left: 55px;
+  transform: skewX(10deg);
+}
+.elementor-widget-nutritix-search .widget_product_search form input[type=search]::placeholder,
+.elementor-widget-nutritix-search .site-search form input[type=search]::placeholder {
+  transform: skewX(0);
+}
+.elementor-widget-nutritix-search .search-by-category .input-dropdown-inner {
+  width: 155px;
+}
+.elementor-widget-nutritix-search .search-by-category .input-dropdown-inner:after {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  transform: none;
+}
+.elementor-widget-nutritix-search.search-form-hide-search-yes .search-by-category {
+  display: none;
+}
+.elementor-widget-nutritix-search.search-form-hide-search-yes .widget_product_search form input[type=search],
+.elementor-widget-nutritix-search.search-form-hide-search-yes .widget_product_search form input[type=text] {
+  padding-right: 1.41575em;
+}
+.elementor-widget-nutritix-search .site-header-search {
+  display: block;
+}
+.elementor-widget-nutritix-search .site-header-search .button-search-popup {
+  text-align: center;
+}
+.elementor-widget-nutritix-search .site-header-search .button-search-popup .nutritix-icon-search {
+  margin-bottom: 5px;
+}
+.elementor-widget-nutritix-search .site-header-search .button-search-popup .content {
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+}
+.elementor-widget-nutritix-search .site-header-search .button-search-popup:hover {
+  color: var(--accent);
+}
+.elementor-widget-nutritix-search .site-header-search .button-search-popup:hover .nutritix-icon-search {
+  color: var(--accent);
+}
+
+.elementor-widget-nutritix-single-product form.cart .quantity_wrap {
+  display: none;
+}
+.elementor-widget-nutritix-single-product form.cart button.single_add_to_cart_button {
+  padding: 12px 32px;
+}
+.elementor-widget-nutritix-single-product form.cart button.single_add_to_cart_button:after {
+  background-color: #000000;
+}
+.elementor-widget-nutritix-single-product form.cart button.single_add_to_cart_button:hover:after {
+  background-color: var(--primary);
+}
+.elementor-widget-nutritix-single-product .stock {
+  display: none;
+}
+.elementor-widget-nutritix-single-product .quantity {
+  position: relative;
+  display: inline-flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 36px;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+  font-size: 12px;
+  font-weight: 700;
+}
+.elementor-widget-nutritix-single-product .quantity.hidden {
+  display: none;
+}
+.elementor-widget-nutritix-single-product .quantity button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  text-align: center;
+  z-index: 9;
+  top: 0;
+  bottom: 0;
+  border: none;
+  width: 40px;
+  height: 36px;
+  border-radius: 0;
+  color: #000000;
+}
+.elementor-widget-nutritix-single-product .quantity button:hover {
+  color: var(--primary);
+  outline: none;
+}
+.elementor-widget-nutritix-single-product .quantity button:after {
+  content: none;
+}
+.elementor-widget-nutritix-single-product .quantity .qty {
+  padding: 0;
+  border: none;
+  -moz-appearance: textfield;
+  text-align: center;
+  color: #000000;
+  flex: 1;
+  background-color: transparent;
+}
+.elementor-widget-nutritix-single-product .quantity .qty::-webkit-outer-spin-button, .elementor-widget-nutritix-single-product .quantity .qty::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.elementor-widget-nutritix-single-product .quantity .qty:focus {
+  border-color: var(--primary);
+}
+
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tabs-wrapper {
+  display: flex;
+  overflow: unset;
+  flex-wrap: wrap;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title {
+  display: inline-block;
+  position: relative;
+  font-size: 12px;
+  line-height: 1.25;
+  font-weight: 600;
+  padding: 10px 20px;
+  margin: 0 15px;
+  cursor: pointer;
+  outline: 0;
+  border: none;
+  color: var(--text);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:last-child {
+  margin-left: 0 !important;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:first-child {
+  margin-right: 0 !important;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transform: scale(0.5);
+  opacity: 0;
+  margin: 0;
+  border-radius: 0;
+  border: none;
+  transition: all 0.3s ease;
+  background-color: var(--primary);
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:hover, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:focus, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:active, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title.elementor-active {
+  color: var(--accent);
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:hover:after, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:focus:after, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title:active:after, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-title.elementor-active:after {
+  transform: scale(1);
+  opacity: 1;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-content, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tabs-content-wrapper {
+  border: none;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-content {
+  padding: 20px 0;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.sub-divider-tab-nutritix-yes.elementor-tabs-view-horizontal .elementor-tab-title:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: 0;
+  border-radius: 0;
+  border: none;
+  transition: all 0.3s ease;
+  background-color: #E5E5E5;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-wrapper {
+  display: block;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 2.1428571429;
+  border: none;
+  padding: 0;
+  width: 220px;
+  color: var(--light);
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title .number {
+  display: inline-block;
+  padding: 0 5px;
+  text-align: center;
+  min-width: 27px;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.1818181818;
+  border-radius: 20px;
+  color: #ffffff;
+  background-color: var(--primary);
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title:before, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title:after {
+  content: none;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title:hover, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title:focus, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title:active, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-title.elementor-active {
+  color: var(--accent);
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-content, .elementor-widget-nutritix-tabs.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-content-wrapper {
+  border: none;
+  padding: 0;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs .tab-button {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.2857142857;
+  border-radius: 4px;
+  padding: 17px 29px;
+  border: 2px solid var(--primary);
+  color: var(--accent);
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs .tab-button i {
+  font-size: 11px;
+  margin-right: 10px;
+  overflow: hidden;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs .tab-button .number {
+  margin-right: 5px;
+  color: var(--primary);
+  transition: all 0.3s ease;
+}
+.elementor-widget-nutritix-tabs.elementor-widget-tabs .tab-button:hover i:before {
+  animation: toRightFromLeft 0.3s forwards;
+  display: block;
+}
+
+.elementor-widget-nutritix-tabs .elementor-tabs .elementor-tab-mobile-title {
+  display: none !important;
+}
+
+.elementor-widget-nutritix-team-box .team-top {
+  overflow: hidden;
+  position: relative;
+}
+.elementor-widget-nutritix-team-box .team-top .team-image img {
+  height: 100%;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  -webkit-filter: grayscale(100%);
+}
+.elementor-widget-nutritix-team-box .team-icon-socials {
+  font-size: 12px;
+  position: absolute;
+  top: 30px;
+  width: 40px;
+  left: -50px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  transition-delay: 0.1s;
+}
+.elementor-widget-nutritix-team-box .team-icon-socials ul {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 0;
+  list-style: none;
+  flex-direction: column;
+}
+.elementor-widget-nutritix-team-box .team-icon-socials ul li {
+  margin-bottom: 10px;
+  line-height: 1;
+  text-align: center;
+}
+.elementor-widget-nutritix-team-box .team-icon-socials ul li:last-child {
+  margin-bottom: 0;
+}
+.elementor-widget-nutritix-team-box .team-icon-socials ul a {
+  color: #000000;
+  font-size: 12px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  background: #FFFFFF;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+.elementor-widget-nutritix-team-box .team-icon-socials ul a:hover {
+  background-color: var(--primary);
+  color: #FFFFFF;
+}
+.elementor-widget-nutritix-team-box .team-name {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+  color: var(--accent);
+}
+.elementor-widget-nutritix-team-box .team-job {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.6923076923;
+  color: var(--text);
+}
+.elementor-widget-nutritix-team-box .team-caption {
+  display: inline-block;
+  position: relative;
+  text-align: right;
+  z-index: 2;
+  padding: 16px 35px;
+  margin-top: -40px;
+  margin-right: 10px;
+}
+.elementor-widget-nutritix-team-box .team-caption:after {
+  position: absolute;
+  border-radius: 3px;
+  top: 1px;
+  right: 1px;
+  z-index: -1;
+  content: "";
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  transform: skewX(10deg);
+  transition: all ease 0.3s;
+  border: 1px solid transparent;
+  background-color: var(--primary);
+}
+.elementor-widget-nutritix-team-box .elementor-teambox-item:hover .team-image img {
+  -webkit-filter: grayscale(0%);
+  transition: all ease 0.3s;
+}
+.elementor-widget-nutritix-team-box .elementor-teambox-item:hover .team-icon-socials {
+  opacity: 1;
+  visibility: visible;
+  left: 30px;
+}
+
+.elementor-testimonial-item-wrapper .inner {
+  margin-right: auto;
+  margin-left: auto;
+}
+.elementor-testimonial-item-wrapper .elementor-testimonial-rating {
+  color: var(--primary);
+  font-size: 11px;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+.elementor-testimonial-item-wrapper .elementor-testimonial-rating i {
+  margin-left: 2px;
+}
+.elementor-testimonial-item-wrapper .elementor-testimonial-rating i:last-child {
+  margin-left: 0;
+}
+.elementor-testimonial-item-wrapper .content {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  color: var(--text);
+}
+.elementor-testimonial-item-wrapper .title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.2222222222;
+  margin-bottom: 5px;
+  color: var(--accent);
+}
+.elementor-testimonial-item-wrapper .details {
+  display: inline-flex;
+  margin-bottom: 30px;
+}
+.elementor-testimonial-item-wrapper .details .name {
+  display: block;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.5714285714;
+  color: var(--accent);
+}
+.elementor-testimonial-item-wrapper .details .name:after {
+  content: "/";
+  font-size: 14px;
+  line-height: 1.5714285714;
+  margin: 0 3px;
+  color: var(--text-light);
+}
+.elementor-testimonial-item-wrapper .details .job {
+  display: block;
+  font-size: 14px;
+  line-height: 1.5714285714;
+  color: var(--text-light);
+}
+
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation {
+  padding: 30px 40px 15px 40px;
+  background-color: #ffffff;
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-menu {
+  position: unset;
+  opacity: 1;
+  visibility: visible;
+  z-index: 990;
+  transform: translateY(0);
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-navigation-header {
+  position: relative;
+  cursor: auto;
+  clip-path: none;
+  padding: 0 0 20px 0;
+  background-color: transparent;
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-navigation-header:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  right: 0;
+  bottom: 0;
+  background-color: #000000;
+  -webkit-clip-path: polygon(2px 0, 100% 0, calc(100% - 2px) 100%, 0 100%);
+  clip-path: polygon(2px 0, 100% 0, calc(100% - 2px) 100%, 0 100%);
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-navigation-header .nutritix-icon {
+  color: var(--primary);
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-navigation-title .title {
+  color: var(--accent);
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-menu .menu {
+  padding: 10px 0;
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation .vertical-menu .menu > li {
+  padding: 0;
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation ul.menu > li:hover > .sub-menu {
+  right: calc(100% + 40px);
+}
+.nav-vertiacl-menu-layout-content-style-2 .vertical-navigation ul.menu > li:before {
+  width: 40px;
+  left: -40px;
+}
+
+.elementor-video-wrapper .elementor-video-popup {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.elementor-video-wrapper .elementor-video-popup:hover .elementor-video-icon {
+  color: var(--primary);
+  border-color: transparent;
+}
+.elementor-video-wrapper .elementor-video-popup:hover .elementor-video-icon .mask:before {
+  border-top-color: var(--primary);
+  border-left-color: var(--primary);
+  border-bottom-color: var(--primary);
+  transition: border-top-color 0.15s linear, border-left-color 0.15s linear 0.1s, border-bottom-color 0.15s linear 0.2s;
+}
+.elementor-video-wrapper .elementor-video-popup:hover .elementor-video-icon .mask::after {
+  border-top: 1px solid var(--primary);
+  border-right-width: 1px;
+  border-left-width: 1px;
+  transform: rotate(-270deg);
+  transition: transform 0.4s linear 0s, border-right-width 0s linear 0.35s, -webkit-transform 0.4s linear 0s;
+}
+.elementor-video-wrapper .elementor-video-popup:hover .image-hover:before {
+  opacity: 0.5;
+}
+.elementor-video-wrapper .elementor-video-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  font-size: 18px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  top: 50%;
+  right: 50%;
+  z-index: 9;
+  color: var(--primary);
+  border: 1px solid #fff;
+  transform: translate(50%, -50%);
+}
+.elementor-video-wrapper .elementor-video-icon .mask:after, .elementor-video-wrapper .elementor-video-icon .mask:before {
+  box-sizing: inherit;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  border-radius: 100%;
+}
+.elementor-video-wrapper .elementor-video-icon .mask:before {
+  border: 1px solid transparent;
+}
+.elementor-video-wrapper .elementor-video-icon .mask::after {
+  border: 0 solid transparent;
+}
+.elementor-video-wrapper .image-hover {
+  position: relative;
+  height: 100%;
+}
+.elementor-video-wrapper .image-hover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.elementor-video-wrapper .image-hover:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  right: 0;
+  background: #000;
+  opacity: 0;
+  -ms-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+
+.mfp-image-holder .mfp-close,
+.mfp-iframe-holder .mfp-close {
+  font-size: 24px;
+  border: none;
+  width: 44px;
+  text-align: center;
+  padding: 0;
+  top: -44px;
+  padding-right: 10px;
+}
+.mfp-image-holder .mfp-close:active, .mfp-image-holder .mfp-close:focus, .mfp-image-holder .mfp-close:hover,
+.mfp-iframe-holder .mfp-close:active,
+.mfp-iframe-holder .mfp-close:focus,
+.mfp-iframe-holder .mfp-close:hover {
+  background-color: transparent;
+  border: none;
+}
+
+.elementor-column-wrap:hover .text-editor-hover .elementor-text-editor > *:before {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+.elementor-column-wrap .text-editor-hover .elementor-text-editor > * {
+  position: relative;
+  display: inline-block;
+}
+.elementor-column-wrap .text-editor-hover .elementor-text-editor > *:before {
+  position: absolute;
+  content: attr(data-hover);
+  color: #000000;
+  clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
+  transition: clip-path 0.5s ease;
+}
+
+.animated-slide-column > .elementor-column-wrap {
+  transition: opacity 0s 0.6s, transform 1s 0.6s;
+  opacity: 0;
+  transform: translateX(20px) translateZ(0);
+}
+.animated-slide-column:after {
+  content: "";
+  margin: 0 0 0 -5px;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  bottom: 100%;
+  right: 0;
+  background-color: var(--primary);
+  z-index: 3;
+  transition: bottom 0.4s cubic-bezier(0.165, 0.84, 0.44, 1) 0s, left 0.4s cubic-bezier(0.77, 0, 0.175, 1) 0.3s, margin 0.4s cubic-bezier(0.77, 0, 0.175, 1) 0.3s, right 0.4s cubic-bezier(0.77, 0, 0.175, 1) 0.6s;
+}
+.animated-slide-column.col-loaded {
+  overflow: hidden;
+  position: relative;
+}
+.animated-slide-column.col-loaded .elementor-column-wrap {
+  transform: translateX(0);
+  opacity: 1;
+}
+.animated-slide-column.col-loaded:after {
+  margin-left: 0;
+  left: -3px;
+  bottom: 0;
+  right: 100%;
+}
+
+.animated-bg-parallax {
+  overflow: hidden;
+}
+.animated-bg-parallax > .elementor-column-wrap {
+  overflow: hidden;
+}
+.animated-bg-parallax .img-banner-parallax {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.animated-bg-parallax .img-banner-parallax:not(.hover) {
+  transform: none !important;
+}
+
+.elementor-widget-image-box.box-title-decor-yes .elementor-image-box-img {
+  position: relative;
+  overflow: hidden;
+}
+.elementor-widget-image-box.box-title-decor-yes .elementor-image-box-img img {
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-image-box.box-title-decor-yes .elementor-image-box-title {
+  position: relative;
+}
+.elementor-widget-image-box.box-title-decor-yes .elementor-image-box-title:before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 0;
+  background-color: var(--primary);
+  top: -60px;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: 1;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+}
+.elementor-widget-image-box.box-title-decor-yes:hover .elementor-image-box-title:before {
+  height: 50px;
+}
+.elementor-widget-image-box.box-title-decor-yes:hover .elementor-image-box-title a {
+  color: var(--primary);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.elementor-widget-image-box.box-title-decor-yes:hover img {
+  transform: scale(1.1);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.text-rotate {
+  -moz-transform: translateX(50%) translateY(-50%) rotate(90deg);
+  -webkit-transform: translateX(50%) translateY(-50%) rotate(90deg);
+  transform: translateX(50%) translateY(-50%) rotate(90deg);
+}
+
+.text-shadow {
+  -webkit-text-stroke: 3px #fff;
+  -webkit-text-fill-color: #F02757;
+}
+
+.hover-style .elementor-cta__button-wrapper {
+  opacity: 0;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  transform: translateY(10px);
+  height: 0;
+}
+.hover-style .elementor-cta__title {
+  transform: translateY(0);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.hover-style .elementor-cta__content {
+  overflow: hidden;
+}
+.hover-style:hover .elementor-cta__title {
+  transform: translateY(-20px);
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.hover-style:hover .elementor-cta__button-wrapper {
+  opacity: 1;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  transform: translateY(-10px);
+}
+
+.mask-text .elementor-counter > * {
+  color: transparent;
+  text-align: center;
+  font-size: 10em;
+  font-weight: 900;
+  background-image: url("../../../assets/images/ldp_mask.jpg");
+  background-size: contain;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -ms-background-clip: text;
+  -moz-background-clip: text;
+}
+
+.e--ua-safari .mask-text .elementor-counter {
+  text-align: center;
+}
+.e--ua-safari .mask-text .elementor-counter > * {
+  display: inline;
+}
+
+.elementor-align-justify .elementor-button {
+  text-align: justify;
+}
+
+.elementor-button-typo-link.elementor-widget-button .elementor-button {
+  position: relative;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5714285714;
+  padding: 0 1px;
+  border-radius: 0;
+  text-transform: capitalize;
+  letter-spacing: 0;
+  color: var(--accent);
+  background-color: transparent;
+  transform: skewX(0);
+  border: none;
+}
+.elementor-button-typo-link.elementor-widget-button .elementor-button:hover {
+  color: #ffffff;
+  background-color: transparent;
+}
+.elementor-button-typo-link.elementor-widget-button .elementor-button:after {
+  content: none;
+}
+.elementor-button-typo-link.elementor-widget-button .elementor-button .elementor-button-content-wrapper {
+  transform: skewX(0);
+}
+.elementor-button-typo-link.elementor-widget-button .elementor-button .elementor-align-icon-left {
+  margin-left: 0;
+}
+.elementor-button-typo-link.elementor-widget-button .elementor-button:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  right: 0;
+  top: unset;
+  transition: all 0.3s ease;
+  background-color: var(--primary);
+}
+.elementor-button-typo-link.elementor-widget-button .elementor-button:hover:before {
+  height: 100%;
+}
+
+.elementor-widget-button .elementor-button {
+  display: inline-flex;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 2.1818181818;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 14px 42px;
+  border-radius: 3px;
+  border: 1px solid var(--accent);
+  transform: skewX(10deg);
+  transition: all 0.3s ease;
+  color: #ffffff;
+  background-color: var(--accent);
+}
+.elementor-widget-button .elementor-button:hover {
+  color: #ffffff;
+  border-color: var(--primary);
+}
+.elementor-widget-button .elementor-button:hover:before {
+  width: 100%;
+  left: 0;
+  right: auto;
+}
+.elementor-widget-button .elementor-button:hover:after {
+  width: 100%;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-button .elementor-button .elementor-button-content-wrapper {
+  transform: skewX(-10deg);
+}
+.elementor-widget-button .elementor-button .elementor-align-icon-right {
+  margin-right: 10px;
+}
+.elementor-widget-button .elementor-button .elementor-button-icon i {
+  font-size: 11px;
+}
+.elementor-widget-button .elementor-button:before, .elementor-widget-button .elementor-button:after {
+  content: "";
+  background-color: var(--primary);
+  z-index: -1;
+  height: 50%;
+  width: 0;
+  position: absolute;
+  transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.elementor-widget-button .elementor-button:before {
+  top: 0;
+  right: 0;
+  left: auto;
+}
+.elementor-widget-button .elementor-button:after {
+  bottom: 0;
+  left: 0;
+  right: auto;
+}
+
+.elementor-button {
+  border: none;
+}
+.elementor-button .elementor-button-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.elementor-button .elementor-button-content-wrapper {
+  align-items: center;
+}
+
+.elementor-default .elementor-button-typo-link .elementor-button.elementor-size-xs {
+  font-size: 16px;
+  padding: 0;
+}
+.elementor-default .elementor-button-typo-link .elementor-button.elementor-size-md {
+  font-size: 13px;
+  padding: 0;
+}
+.elementor-default .elementor-button-typo-link .elementor-button.elementor-size-lg {
+  font-size: 12px;
+  padding: 0;
+}
+.elementor-default .elementor-button-typo-link .elementor-button.elementor-size-xl {
+  font-size: 11px;
+  padding: 0;
+}
+
+.elementor-default .elementor-button.elementor-size-xs {
+  font-size: 16px;
+  padding: 20px 45px;
+}
+.elementor-default .elementor-button.elementor-size-md {
+  font-size: 11px;
+  padding: 12px 38px;
+}
+.elementor-default .elementor-button.elementor-size-lg {
+  font-size: 11px;
+  padding: 6px 20px;
+}
+.elementor-default .elementor-button.elementor-size-xl {
+  font-size: 11px;
+  padding: 5px 15px;
+}
+
+.elementor-widget-button.elementor-button-info .elementor-button {
+  background-color: #71d7f7;
+}
+.elementor-widget-button.elementor-button-success .elementor-button {
+  background-color: #5cb85c;
+}
+.elementor-widget-button.elementor-button-warning .elementor-button {
+  background-color: #f0ad4e;
+}
+.elementor-widget-button.elementor-button-danger .elementor-button {
+  background-color: #d9534f;
+}
+
+.btn-slider {
+  position: relative !important;
+  transform: skewX(10deg) !important;
+  overflow: hidden !important;
+}
+.btn-slider span {
+  display: block;
+  transform: skewX(-10deg) !important;
+}
+.btn-slider:hover {
+  color: #ffffff;
+}
+.btn-slider:hover span {
+  color: white;
+}
+.btn-slider:hover:before {
+  width: 100%;
+  left: 0;
+  right: auto;
+}
+.btn-slider:hover:after {
+  width: 100%;
+  right: 0;
+  left: auto;
+}
+.btn-slider:before, .btn-slider:after {
+  content: "";
+  background-color: var(--primary_hover);
+  z-index: -1;
+  height: 50%;
+  width: 0;
+  position: absolute;
+  transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.btn-slider:before {
+  top: 0;
+  right: 0;
+  left: auto;
+}
+.btn-slider:after {
+  bottom: 0;
+  left: 0;
+  right: auto;
+}
+
+@-moz-keyframes toRightFromLeft {
+  49% {
+    -moz-transform: translate(-100%);
+  }
+  50% {
+    opacity: 0;
+    -moz-transform: translate(100%);
+  }
+  51% {
+    opacity: 1;
+  }
+}
+@keyframes toRightFromLeft {
+  49% {
+    transform: translate(-100%);
+  }
+  50% {
+    opacity: 0;
+    transform: translate(100%);
+  }
+  51% {
+    opacity: 1;
+  }
+}
+.elementor-view-framed .elementor-icon,
+.elementor-view-default .elementor-icon {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.elementor-view-stacked .elementor-icon {
+  background-color: var(--primary);
+}
+
+.elementor-icon-box-wrapper:hover .elementor-icon {
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  transform: scale(0.9);
+}
+
+.elementor-image-box-wrapper .elementor-image-box-img img {
+  display: inline-block;
+}
+
+.elementor-image-box-wrapper .elementor-image-box-img {
+  position: relative;
+  z-index: 1;
+}
+.elementor-image-box-wrapper .elementor-image-box-img:before {
+  content: "";
+  background-color: var(--light);
+  position: absolute;
+  right: 0;
+  top: 55%;
+  width: 100%;
+  height: 50%;
+  transform: skewX(10deg) translateY(-50%);
+  z-index: -1;
+  border-radius: 3px;
+  transition: all ease 0.3s;
+}
+.elementor-image-box-wrapper:hover .elementor-image-box-img:before {
+  background-color: var(--primary);
+}
+.elementor-image-box-wrapper .elementor-image-box-description {
+  display: inline-block;
+  position: relative;
+}
+.elementor-image-box-wrapper .elementor-image-box-description:before {
+  width: 100%;
+  height: 1px;
+  background: var(--primary);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  content: "";
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: -1;
+}
+.elementor-image-box-wrapper .elementor-image-box-description:hover {
+  color: white !important;
+}
+.elementor-image-box-wrapper .elementor-image-box-description:hover:before {
+  height: 100%;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-img a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  right: 0;
+  top: 0;
+  transition: all 0.4s ease;
+  z-index: 10;
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-img img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-wrapper {
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-wrapper:hover .elementor-image-box-content {
+  bottom: 0;
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-wrapper:hover .elementor-image-box-img a:before {
+  opacity: 1;
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-content {
+  position: absolute;
+  width: 100%;
+  bottom: -40px;
+  z-index: 11;
+  transition: all 0.3s ease;
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {
+  margin-bottom: 0;
+  font-size: 14px;
+  background-color: var(--primary);
+}
+.nutritix-image-box-style-2.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title a {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  line-height: 18px;
+  color: #ffffff;
+}
+
+.icon-list-hover-underline .elementor-icon-list-item a:hover .elementor-icon-list-text {
+  text-decoration: underline;
+}
+
+.style-theme-nutritix-layout-1 .elementor-accordion .elementor-accordion-item {
+  margin-bottom: 0;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0;
+  font-weight: bold;
+  border-top-color: var(--border);
+  color: var(--accent);
+  border-width: 1px 0 1px 0;
+}
+.style-theme-nutritix-layout-1 .elementor-accordion .elementor-tab-content {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0 0 20px;
+  border-top: none;
+}
+.style-theme-nutritix-layout-1 .elementor-accordion .elementor-tab-title {
+  margin: 0;
+  padding: 20px 0;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  outline: none;
+  color: var(--accent);
+}
+.style-theme-nutritix-layout-1 p {
+  margin: 0;
+}
+
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-accordion-item {
+  border: none;
+  margin-bottom: 20px;
+}
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-accordion-item:last-child {
+  margin-bottom: 0;
+}
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-tab-title {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.375;
+  color: var(--accent);
+}
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-tab-title .elementor-accordion-title {
+  flex: 1;
+}
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-tab-content {
+  border: none;
+  padding: 10px 65px 0 0;
+}
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-accordion .elementor-tab-title .elementor-accordion-icon {
+  display: block;
+  font-size: 15px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 25px;
+  text-align: center;
+  color: #C4C4C4;
+  background-color: #E5E5E5;
+}
+.style-theme-nutritix-layout-2.elementor-widget-accordion .elementor-accordion .elementor-active.elementor-tab-title .elementor-accordion-icon {
+  color: #ffffff;
+  background-color: var(--primary);
+}
+
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container {
+  overflow: hidden;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a {
+  position: relative;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a img {
+  transform: scale(1);
+  transition: transform 0.35s;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:before, .image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:after {
+  transform: scale(0.9);
+  transition: transform 0.35s, all 0.7s;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 50%;
+  right: 50%;
+  margin-right: -50%;
+  top: 25%;
+  border-color: rgba(200, 200, 200, 0);
+  border-style: solid;
+  border-width: 0 1px;
+  z-index: 2;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:after {
+  position: absolute;
+  content: "";
+  width: 50%;
+  height: 100%;
+  right: 50%;
+  margin-right: -25%;
+  top: 0;
+  border-color: rgba(200, 200, 200, 0);
+  border-style: solid;
+  border-width: 1px 0;
+  z-index: 2;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:hover img {
+  transform: scale(1.09);
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:hover:before {
+  height: 100%;
+  top: 0;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:hover:after {
+  width: 100%;
+  margin-right: -50%;
+}
+.image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:hover:before, .image-style-nutritix-yes.elementor-widget-image .elementor-widget-container a:hover:after {
+  border-color: #ffffff;
+}
+
+.elementor-image-carousel-wrapper .elementor-swiper-button {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 28px;
+  letter-spacing: 0;
+  cursor: pointer;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  outline: none;
+  z-index: 9;
+  padding: 0;
+  font-size: 15px;
+  border-radius: 3px 11px 3px 11px;
+}
+.elementor-image-carousel-wrapper .elementor-swiper-button:after {
+  position: absolute;
+  border-radius: 3px;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  transform: skewX(10deg);
+}
+.elementor-image-carousel-wrapper .elementor-swiper-button:hover i {
+  color: #fff;
+}
+.elementor-image-carousel-wrapper .elementor-swiper-button:hover:after {
+  background-color: var(--primary);
+}
+.elementor-image-carousel-wrapper .elementor-swiper-button i {
+  color: #CCCCCC;
+}
+.elementor-image-carousel-wrapper .elementor-swiper-button.elementor-swiper-button-prev {
+  right: -60px;
+}
+.elementor-image-carousel-wrapper .elementor-swiper-button.elementor-swiper-button-next {
+  left: -60px;
+}
+
+.icon-list-style-nutritix-yes .elementor-icon-list-item:hover {
+  background-color: var(--primary);
+  color: white;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.icon-list-style-nutritix-yes .elementor-icon-list-item:hover:first-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.icon-list-style-nutritix-yes .elementor-icon-list-item:hover:last-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.icon-list-style-nutritix-yes .elementor-icon-list-item a {
+  padding: 0 20px;
+}
+.icon-list-style-nutritix-yes .elementor-icon-list-item:first-child {
+  background-color: var(--primary);
+  color: white;
+}
+.icon-list-style-nutritix-yes .elementor-icon-list-item:first-child span, .icon-list-style-nutritix-yes .elementor-icon-list-item:first-child a {
+  color: white !important;
+}
+
+.nutritix-custom-background-yes > .elementor-widget-wrap {
+  z-index: 1;
+}
+.nutritix-custom-background-yes > .elementor-widget-wrap:before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  transform: skewX(10deg);
+  border-radius: 3px;
+}
+
+.elementor_library-template-default .entry-header,
+.elementor_library-template-default #post-navigation,
+.elementor_library-template-default .entry-taxonomy {
+  display: none;
+}
+
+.header-absolute {
+  position: absolute !important;
+  width: 100%;
+  z-index: 99;
+  background-color: transparent !important;
+}
+
+:root {
+  --scroll-bar: 8px;
+}
+
+body:not(.has-scrollbar) .elementor-section.elementor-section-stretched {
+  width: 100vw !important;
+  margin-right: calc(-50vw + 50%) !important;
+  margin-left: calc(-50vw + 50%) !important;
+  right: 0 !important;
+}
+
+body.has-scrollbar .elementor-section.elementor-section-stretched {
+  width: calc(100vw - 20px) !important;
+  margin-right: calc(-50vw + 50% + 10px) !important;
+  margin-left: calc(-50vw + 50% + 10px);
+  right: 0 !important;
+}
+
+@supports (color: var(--scroll-bar)) {
+  body.has-scrollbar .elementor-section.elementor-section-stretched {
+    width: calc(100vw - var(--scroll-bar)) !important;
+    margin-right: calc(-50vw + 50% + (var(--scroll-bar) / 2)) !important;
+    margin-left: calc(-50vw + 50% + (var(--scroll-bar) / 2)) !important;
+    right: 0 !important;
+  }
+}
+.elementor-social-icons-wrapper .elementor-social-icon:hover {
+  opacity: 1;
+}
+
+.c-primary {
+  color: var(--primary);
+}
+
+.elementor-widget-tabs .elementor-tab-title a {
+  display: flex;
+  align-items: center;
+}
+
+.underline-primary {
+  position: relative;
+}
+.underline-primary:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 10px;
+  bottom: 10px;
+  right: 0;
+  background-color: #FFD8D2;
+  z-index: -1;
+}
+
+.sublink .elementor-column:hover img {
+  opacity: 0.8;
+  border-color: var(--primary) !important;
+}
+.sublink .elementor-column img {
+  transition: all 0.3s ease;
+}

@@ -1,0 +1,2553 @@
+@charset "UTF-8";
+/* ===== Start ICONS CSS ===== */
+@font-face {
+  font-family: "nutritix-icon";
+  src: url("./assets/fonts/icons/nutritix-icon-1.3.3.eot");
+  src: url("./assets/fonts/icons/nutritix-icon-1.3.3.eot?#iefix") format("eot"), url("./assets/fonts/icons/nutritix-icon-1.3.3.woff2") format("woff2"), url("./assets/fonts/icons/nutritix-icon-1.3.3.woff") format("woff"), url("./assets/fonts/icons/nutritix-icon-1.3.3.ttf") format("truetype"), url("./assets/fonts/icons/nutritix-icon-1.3.3.svg#nutritix-icon-1.3.3") format("svg");
+}
+[class*=nutritix-icon-] {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.nutritix-icon-account:before {
+  content: "";
+}
+
+.nutritix-icon-address:before {
+  content: "";
+}
+
+.nutritix-icon-angle-down:before {
+  content: "";
+}
+
+.nutritix-icon-angle-left:before {
+  content: "";
+}
+
+.nutritix-icon-angle-right:before {
+  content: "";
+}
+
+.nutritix-icon-angle-up:before {
+  content: "";
+}
+
+.nutritix-icon-arrow-drop-down-fill:before {
+  content: "";
+}
+
+.nutritix-icon-arrow-left:before {
+  content: "";
+}
+
+.nutritix-icon-arrow-right:before {
+  content: "";
+}
+
+.nutritix-icon-authentic:before {
+  content: "";
+}
+
+.nutritix-icon-calendar:before {
+  content: "";
+}
+
+.nutritix-icon-calling-1:before {
+  content: "";
+}
+
+.nutritix-icon-cart:before {
+  content: "";
+}
+
+.nutritix-icon-chat:before {
+  content: "";
+}
+
+.nutritix-icon-check-square-solid:before {
+  content: "";
+}
+
+.nutritix-icon-chevron-double-left:before {
+  content: "";
+}
+
+.nutritix-icon-chevron-double-right:before {
+  content: "";
+}
+
+.nutritix-icon-clock:before {
+  content: "";
+}
+
+.nutritix-icon-close:before {
+  content: "";
+}
+
+.nutritix-icon-compare:before {
+  content: "";
+}
+
+.nutritix-icon-config:before {
+  content: "";
+}
+
+.nutritix-icon-delivery-1:before {
+  content: "";
+}
+
+.nutritix-icon-eye:before {
+  content: "";
+}
+
+.nutritix-icon-facebook-f:before {
+  content: "";
+}
+
+.nutritix-icon-featured:before {
+  content: "";
+}
+
+.nutritix-icon-filter-ul:before {
+  content: "";
+}
+
+.nutritix-icon-google-plus-g:before {
+  content: "";
+}
+
+.nutritix-icon-headphone:before {
+  content: "";
+}
+
+.nutritix-icon-heart-1:before {
+  content: "";
+}
+
+.nutritix-icon-home-1:before {
+  content: "";
+}
+
+.nutritix-icon-import:before {
+  content: "";
+}
+
+.nutritix-icon-linkedin-in:before {
+  content: "";
+}
+
+.nutritix-icon-list-ul:before {
+  content: "";
+}
+
+.nutritix-icon-mail:before {
+  content: "";
+}
+
+.nutritix-icon-map-marker-alt:before {
+  content: "";
+}
+
+.nutritix-icon-message-circle:before {
+  content: "";
+}
+
+.nutritix-icon-nutrition:before {
+  content: "";
+}
+
+.nutritix-icon-organic:before {
+  content: "";
+}
+
+.nutritix-icon-package:before {
+  content: "";
+}
+
+.nutritix-icon-payment-1:before {
+  content: "";
+}
+
+.nutritix-icon-pen:before {
+  content: "";
+}
+
+.nutritix-icon-phone:before {
+  content: "";
+}
+
+.nutritix-icon-plane:before {
+  content: "";
+}
+
+.nutritix-icon-play-1:before {
+  content: "";
+}
+
+.nutritix-icon-play-circle:before {
+  content: "";
+}
+
+.nutritix-icon-popular:before {
+  content: "";
+}
+
+.nutritix-icon-product:before {
+  content: "";
+}
+
+.nutritix-icon-quality:before {
+  content: "";
+}
+
+.nutritix-icon-quote:before {
+  content: "";
+}
+
+.nutritix-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.nutritix-icon-shopping-bag:before {
+  content: "";
+}
+
+.nutritix-icon-sliders-v:before {
+  content: "";
+}
+
+.nutritix-icon-star-alt:before {
+  content: "";
+}
+
+.nutritix-icon-support-1:before {
+  content: "";
+}
+
+.nutritix-icon-time-spare-1:before {
+  content: "";
+}
+
+.nutritix-icon-twitte-1:before {
+  content: "";
+}
+
+.nutritix-icon-visually:before {
+  content: "";
+}
+
+.nutritix-icon-360:before {
+  content: "";
+}
+
+.nutritix-icon-bars:before {
+  content: "";
+}
+
+.nutritix-icon-cart-empty:before {
+  content: "";
+}
+
+.nutritix-icon-check-square:before {
+  content: "";
+}
+
+.nutritix-icon-circle:before {
+  content: "";
+}
+
+.nutritix-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.nutritix-icon-comment:before {
+  content: "";
+}
+
+.nutritix-icon-comments:before {
+  content: "";
+}
+
+.nutritix-icon-contact:before {
+  content: "";
+}
+
+.nutritix-icon-credit-card:before {
+  content: "";
+}
+
+.nutritix-icon-dot-circle:before {
+  content: "";
+}
+
+.nutritix-icon-edit:before {
+  content: "";
+}
+
+.nutritix-icon-envelope:before {
+  content: "";
+}
+
+.nutritix-icon-expand-alt:before {
+  content: "";
+}
+
+.nutritix-icon-external-link-alt:before {
+  content: "";
+}
+
+.nutritix-icon-file-alt:before {
+  content: "";
+}
+
+.nutritix-icon-file-archive:before {
+  content: "";
+}
+
+.nutritix-icon-filter:before {
+  content: "";
+}
+
+.nutritix-icon-folder-open:before {
+  content: "";
+}
+
+.nutritix-icon-folder:before {
+  content: "";
+}
+
+.nutritix-icon-frown:before {
+  content: "";
+}
+
+.nutritix-icon-gift:before {
+  content: "";
+}
+
+.nutritix-icon-grid:before {
+  content: "";
+}
+
+.nutritix-icon-grip-horizontal:before {
+  content: "";
+}
+
+.nutritix-icon-heart-fill:before {
+  content: "";
+}
+
+.nutritix-icon-heart:before {
+  content: "";
+}
+
+.nutritix-icon-history:before {
+  content: "";
+}
+
+.nutritix-icon-home:before {
+  content: "";
+}
+
+.nutritix-icon-info-circle:before {
+  content: "";
+}
+
+.nutritix-icon-instagram:before {
+  content: "";
+}
+
+.nutritix-icon-level-up-alt:before {
+  content: "";
+}
+
+.nutritix-icon-list:before {
+  content: "";
+}
+
+.nutritix-icon-map-marker-check:before {
+  content: "";
+}
+
+.nutritix-icon-meh:before {
+  content: "";
+}
+
+.nutritix-icon-minus-circle:before {
+  content: "";
+}
+
+.nutritix-icon-minus:before {
+  content: "";
+}
+
+.nutritix-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.nutritix-icon-money-bill:before {
+  content: "";
+}
+
+.nutritix-icon-pencil-alt:before {
+  content: "";
+}
+
+.nutritix-icon-plus-circle:before {
+  content: "";
+}
+
+.nutritix-icon-plus:before {
+  content: "";
+}
+
+.nutritix-icon-random:before {
+  content: "";
+}
+
+.nutritix-icon-reply-all:before {
+  content: "";
+}
+
+.nutritix-icon-reply:before {
+  content: "";
+}
+
+.nutritix-icon-search-plus:before {
+  content: "";
+}
+
+.nutritix-icon-search:before {
+  content: "";
+}
+
+.nutritix-icon-shield-check:before {
+  content: "";
+}
+
+.nutritix-icon-shopping-basket:before {
+  content: "";
+}
+
+.nutritix-icon-shopping-cart:before {
+  content: "";
+}
+
+.nutritix-icon-sign-out-alt:before {
+  content: "";
+}
+
+.nutritix-icon-smile:before {
+  content: "";
+}
+
+.nutritix-icon-spinner:before {
+  content: "";
+}
+
+.nutritix-icon-square:before {
+  content: "";
+}
+
+.nutritix-icon-star:before {
+  content: "";
+}
+
+.nutritix-icon-store:before {
+  content: "";
+}
+
+.nutritix-icon-sync:before {
+  content: "";
+}
+
+.nutritix-icon-tachometer-alt:before {
+  content: "";
+}
+
+.nutritix-icon-thumbtack:before {
+  content: "";
+}
+
+.nutritix-icon-ticket:before {
+  content: "";
+}
+
+.nutritix-icon-times-circle:before {
+  content: "";
+}
+
+.nutritix-icon-times-square:before {
+  content: "";
+}
+
+.nutritix-icon-times:before {
+  content: "";
+}
+
+.nutritix-icon-trophy-alt:before {
+  content: "";
+}
+
+.nutritix-icon-truck:before {
+  content: "";
+}
+
+.nutritix-icon-user:before {
+  content: "";
+}
+
+.nutritix-icon-video:before {
+  content: "";
+}
+
+.nutritix-icon-wishlist-empty:before {
+  content: "";
+}
+
+.nutritix-icon-adobe:before {
+  content: "";
+}
+
+.nutritix-icon-amazon:before {
+  content: "";
+}
+
+.nutritix-icon-android:before {
+  content: "";
+}
+
+.nutritix-icon-angular:before {
+  content: "";
+}
+
+.nutritix-icon-apper:before {
+  content: "";
+}
+
+.nutritix-icon-apple:before {
+  content: "";
+}
+
+.nutritix-icon-atlassian:before {
+  content: "";
+}
+
+.nutritix-icon-behance:before {
+  content: "";
+}
+
+.nutritix-icon-bitbucket:before {
+  content: "";
+}
+
+.nutritix-icon-bitcoin:before {
+  content: "";
+}
+
+.nutritix-icon-bity:before {
+  content: "";
+}
+
+.nutritix-icon-bluetooth:before {
+  content: "";
+}
+
+.nutritix-icon-btc:before {
+  content: "";
+}
+
+.nutritix-icon-centos:before {
+  content: "";
+}
+
+.nutritix-icon-chrome:before {
+  content: "";
+}
+
+.nutritix-icon-codepen:before {
+  content: "";
+}
+
+.nutritix-icon-cpanel:before {
+  content: "";
+}
+
+.nutritix-icon-discord:before {
+  content: "";
+}
+
+.nutritix-icon-dochub:before {
+  content: "";
+}
+
+.nutritix-icon-docker:before {
+  content: "";
+}
+
+.nutritix-icon-dribbble:before {
+  content: "";
+}
+
+.nutritix-icon-dropbox:before {
+  content: "";
+}
+
+.nutritix-icon-drupal:before {
+  content: "";
+}
+
+.nutritix-icon-ebay:before {
+  content: "";
+}
+
+.nutritix-icon-facebook:before {
+  content: "";
+}
+
+.nutritix-icon-figma:before {
+  content: "";
+}
+
+.nutritix-icon-firefox:before {
+  content: "";
+}
+
+.nutritix-icon-google-plus:before {
+  content: "";
+}
+
+.nutritix-icon-google:before {
+  content: "";
+}
+
+.nutritix-icon-grunt:before {
+  content: "";
+}
+
+.nutritix-icon-gulp:before {
+  content: "";
+}
+
+.nutritix-icon-html5:before {
+  content: "";
+}
+
+.nutritix-icon-joomla:before {
+  content: "";
+}
+
+.nutritix-icon-link-brand:before {
+  content: "";
+}
+
+.nutritix-icon-linkedin:before {
+  content: "";
+}
+
+.nutritix-icon-mailchimp:before {
+  content: "";
+}
+
+.nutritix-icon-opencart:before {
+  content: "";
+}
+
+.nutritix-icon-paypal:before {
+  content: "";
+}
+
+.nutritix-icon-pinterest-p:before {
+  content: "";
+}
+
+.nutritix-icon-reddit:before {
+  content: "";
+}
+
+.nutritix-icon-skype:before {
+  content: "";
+}
+
+.nutritix-icon-slack:before {
+  content: "";
+}
+
+.nutritix-icon-snapchat:before {
+  content: "";
+}
+
+.nutritix-icon-spotify:before {
+  content: "";
+}
+
+.nutritix-icon-trello:before {
+  content: "";
+}
+
+.nutritix-icon-twitter:before {
+  content: "";
+}
+
+.nutritix-icon-vimeo:before {
+  content: "";
+}
+
+.nutritix-icon-whatsapp:before {
+  content: "";
+}
+
+.nutritix-icon-wordpress:before {
+  content: "";
+}
+
+.nutritix-icon-yoast:before {
+  content: "";
+}
+
+.nutritix-icon-youtube:before {
+  content: "";
+}
+
+/* ===== End ICONS CSS ===== */
+.editor-styles-wrapper .wp-block-quote,
+.hentry .entry-content .wp-block-quote {
+  position: relative;
+  overflow: hidden;
+}
+.editor-styles-wrapper .wp-block-quote:before,
+.hentry .entry-content .wp-block-quote:before {
+  position: absolute;
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  left: 0;
+  top: 0;
+  font-size: 32px;
+  color: var(--primary);
+}
+
+.nutritix-social ul {
+  margin: 0;
+  list-style-type: none;
+}
+.nutritix-social ul li {
+  display: inline-block;
+  margin-right: 10px;
+  line-height: 1;
+}
+.nutritix-social ul li:last-child {
+  margin-right: 0;
+}
+.nutritix-social ul li a:before {
+  position: relative;
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.nutritix-social ul li a[href*=twitter]:before {
+  content: "";
+  color: #1DA1F2;
+}
+.nutritix-social ul li a[href*=instagram]:before {
+  content: "";
+  color: #262626;
+}
+.nutritix-social ul li a[href*=docker]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=dochub]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=yelp]:before {
+  content: "";
+  color: #af0606;
+}
+.nutritix-social ul li a[href*=flickr]:before {
+  content: "";
+  color: #0063dc;
+}
+.nutritix-social ul li a[href*=github]:before {
+  content: "";
+  color: #333333;
+}
+.nutritix-social ul li a[href*=dribbble]:before {
+  content: "";
+  color: #ea4c89;
+}
+.nutritix-social ul li a[href*=wordpress]:before {
+  content: "";
+  color: #21759b;
+}
+.nutritix-social ul li a[href*=tumblr]:before {
+  content: "";
+  color: #35465c;
+}
+.nutritix-social ul li a[href*=angular]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=atlassian]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=snapchat]:before {
+  content: "";
+  color: #fffc00;
+}
+.nutritix-social ul li a[href*=apper]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=codepen]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=gulp]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=cpanel]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=skype]:before {
+  content: "";
+  color: #00AFF0;
+}
+.nutritix-social ul li a[href*=reddit]:before {
+  content: "";
+  color: #ff4500;
+}
+.nutritix-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=slack]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=amazon]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=android]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=grunt]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=firefox]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=adobe]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=behance]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=dropbox]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=facebook]:before {
+  content: "";
+  color: #3b5998;
+}
+.nutritix-social ul li a[href*=linkedin]:before {
+  content: "";
+  color: #0077b5;
+}
+.nutritix-social ul li a[href*=paypal]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=trello]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.nutritix-social ul li a[href*=youtube]:before {
+  content: "";
+  color: #cd201f;
+}
+.nutritix-social ul li a[href*=apple]:before {
+  content: "";
+  color: #999999;
+}
+.nutritix-social ul li a[href*=bitbucket]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=bitcoin]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=bluetooth]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=bity]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*="google/chrome"]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=drupal]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=html5]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=mailchimp]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=jenkins]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=spotify]:before {
+  content: "";
+  color: #2ebd59;
+}
+.nutritix-social ul li a[href*=ebay]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=telegram]:before {
+  content: "";
+  color: #2CA5E0;
+}
+.nutritix-social ul li a[href*=yoast]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=btc-e]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=discord]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=google]:before {
+  content: "";
+  color: #dd4b39;
+}
+.nutritix-social ul li a[href*=google-plus]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=figma]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=joomla]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=opencart]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=pinterest]:before {
+  content: "";
+  color: #bd081c;
+}
+.nutritix-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.nutritix-social ul li a[href*=centos]:before {
+  content: "";
+}
+.nutritix-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+
+#comments .commentlist .bypostauthor > .comment-body cite::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+#comments .reply a::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-top: -3px;
+  font-size: 11px;
+  font-weight: bold;
+}
+#comments .reply a.comment-edit-link::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+#respond #cancel-comment-reply-link::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+}
+
+.sticky .entry-title::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+button.loading,
+.button.loading,
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link.loading,
+.added_to_cart.loading {
+  position: relative;
+}
+button.loading::after,
+.button.loading::after,
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link.loading::after,
+.added_to_cart.loading::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+  background-color: transparent;
+  z-index: 1;
+  transform-origin: center;
+}
+
+.shop-action .blockUI.blockOverlay:before,
+.shop-action .loader:before {
+  top: 50%;
+  left: 50%;
+  opacity: 1 !important;
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  font-size: 20px;
+  width: 20px;
+  height: 20px;
+  line-height: 1;
+  position: absolute;
+  display: block !important;
+  margin-left: -10px;
+  margin-top: -10px;
+  color: #000;
+}
+
+.shop-action .blockUI.blockOverlay {
+  opacity: 1 !important;
+  overflow: hidden;
+  background-image: none !important;
+  background: #fff !important;
+}
+
+.main-navigtion ul li a::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.mobile-navigation ul li button::before, .mobile-navigation-categories ul li button::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.mobile-navigation ul li button.toggled-on::before, .mobile-navigation-categories ul li button.toggled-on::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_search form::before,
+.widget_product_search form::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 25px;
+  transform: translate(0, -50%);
+  z-index: 9;
+  color: #000;
+  pointer-events: none;
+}
+.widget_search.widget_block form::before,
+.widget_product_search.widget_block form::before {
+  content: none;
+}
+.widget_search.widget_block form .wp-block-search__inside-wrapper,
+.widget_product_search.widget_block form .wp-block-search__inside-wrapper {
+  position: relative;
+}
+.widget_search.widget_block form .wp-block-search__inside-wrapper:before,
+.widget_product_search.widget_block form .wp-block-search__inside-wrapper:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translate(0, -50%);
+  z-index: 1;
+}
+
+.widget_search form::before {
+  color: var(--accent);
+  right: 20px;
+}
+
+.single-product .pswp__button {
+  background-color: transparent;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+  text-indent: -999px;
+  overflow: hidden;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+  line-height: 20px;
+  text-indent: 0;
+  font-size: 18px;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger img {
+  display: none !important;
+}
+.single-product div.product .entry-summary .yith-wcwl-add-to-wishlist > div > a:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.single-product div.product .entry-summary .compare:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.stock::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  margin-top: -4px;
+}
+.stock.in-stock::before {
+  content: "";
+}
+
+.content-area .nutritix-dropdown-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.content-area .nutritix-dropdown-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618em;
+}
+.content-area .nutritix-dropdown-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618em;
+  width: 1em;
+}
+.content-area .nutritix-dropdown-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.content-area .nutritix-dropdown-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.content-area .nutritix-dropdown-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+.nutritix-canvas-filter .nutritix-canvas-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.nutritix-canvas-filter .nutritix-canvas-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618em;
+}
+.nutritix-canvas-filter .nutritix-canvas-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618em;
+  width: 1em;
+}
+.nutritix-canvas-filter .nutritix-canvas-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.nutritix-canvas-filter .nutritix-canvas-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.nutritix-canvas-filter .nutritix-canvas-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+a.remove {
+  display: block;
+  width: 1.618em;
+  height: 1.618em;
+  line-height: 1.618;
+  font-weight: 400;
+  text-indent: -9999px;
+  position: relative;
+}
+a.remove::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: #999999;
+  line-height: 1.618;
+  text-indent: 0;
+  text-align: center;
+}
+
+.woocommerce-shipping-calculator > p:first-child a::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.3342343017em;
+}
+
+.blockUI::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -15px;
+  margin-top: -15px;
+}
+
+.woocommerce-pagination .next,
+.woocommerce-pagination .prev {
+  display: inline-block;
+  position: relative;
+}
+
+#shipping_method li > label {
+  cursor: pointer;
+  padding-right: 20px;
+  position: relative;
+}
+#shipping_method li > label::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#shipping_method li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+#shipping_method li > input[type=radio]:first-child:checked + label::after {
+  font-weight: 700;
+  content: "";
+}
+#shipping_method li > input[type=hidden]:first-child + label {
+  padding-right: 0;
+}
+#shipping_method li > input[type=hidden]:first-child + label::after {
+  content: none;
+}
+
+#payment .payment_methods li > label {
+  cursor: pointer;
+}
+#payment .payment_methods li > label::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+  transition: color, ease, 0.2s;
+}
+#payment .payment_methods li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+#payment .payment_methods li > input[type=radio]:first-child:checked + label::before {
+  font-weight: 700;
+  content: "";
+}
+
+.woocommerce-password-strength::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+.woocommerce-password-strength.strong::after {
+  content: "";
+}
+.woocommerce-password-strength.good::after {
+  content: "";
+}
+
+.woocommerce-MyAccount-navigation ul li.is-active a::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li a::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: 1.618;
+  margin-left: 0.5407911001em;
+  width: 1.41575em;
+  text-align: right;
+  float: right;
+  opacity: 0.25;
+}
+.woocommerce-MyAccount-navigation ul li a:hover::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--dashboard a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--orders a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--downloads a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-address a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--payment-methods a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-account a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--customer-logout a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--subscriptions a::before {
+  content: "";
+}
+
+.my_account_orders .button.view::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+p.order-again .button::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+.woocommerce-MyAccount-downloads .button::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+.demo_store::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+#reviews .commentlist li p.meta .verified {
+  display: inline-block;
+  height: 1.41575em;
+  width: 1.41575em;
+  position: relative;
+  text-indent: -9999px;
+}
+#reviews .commentlist li p.meta .verified::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  color: #0f834d;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.41575em;
+  height: 1.41575em;
+  text-indent: 0;
+  text-align: center;
+  line-height: 1.618em;
+}
+
+/**
+ * Composite Products
+ */
+.single-product div.product .component_selections .clear_component_options::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+/**
+ * Mix and Match
+ */
+.cart .mnm_table_item .mnm_table_item_indent::before,
+.shop_table .mnm_table_item .mnm_table_item_indent::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  transform: rotate(90deg);
+  margin-right: 0.3819820591em;
+  opacity: 0.25;
+}
+
+/**
+ * Quick view
+ */
+.quick-view-button::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.6180469716em;
+}
+
+/**
+ * Ship multiple addresses
+ */
+.woocommerce-page .ship_address .gift-form label::after,
+.woocommerce-page .no_shipping_address .gift-form label::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+.woocommerce-page .ship_address .modify-address-button::before,
+.woocommerce-page .no_shipping_address .modify-address-button::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+.woocommerce-page .addresses + .addresses header.title a::before {
+  content: "";
+}
+
+/**
+ * Product reviews pro
+ */
+.woocommerce .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before,
+.woocommerce-page .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+/**
+ * Variation Swatches
+ */
+a#variations_clear::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+/**
+ * Wishlists
+ */
+.wl-add-link::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.button.wl-create-new::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.site-header-cart .cart-contents::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+@media (min-width: 768px) {
+  .main-navigation ul.menu > li.menu-item-has-children > a:after, .main-navigation ul.menu > li.page_item_has_children > a:after, .main-navigation ul.menu > li.has-mega-menu > a:after,
+.main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 7px;
+    width: 6px;
+    height: 6px;
+    background-color: #CCCCCC;
+    transform: skewX(-15deg);
+  }
+  .gecko .main-navigation ul.menu > li.menu-item-has-children > a:after, .gecko .main-navigation ul.menu > li.page_item_has_children > a:after, .gecko .main-navigation ul.menu > li.has-mega-menu > a:after,
+.gecko .main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.gecko .main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.gecko .main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    margin-bottom: 0;
+    vertical-align: sub;
+  }
+
+  .header-side .main-navigation ul.menu > li.menu-item-has-children > a::after, .header-side .main-navigation ul.menu > li.page_item_has_children > a::after, .header-side .main-navigation ul.menu > li.has-mega-menu > a::after,
+.header-side .main-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.header-side .main-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.header-side .main-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "nutritix-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 1em;
+    margin-right: -25px;
+  }
+
+  .vertical-navigation ul.menu > li.menu-item-has-children > a::after, .vertical-navigation ul.menu > li.page_item_has_children > a::after, .vertical-navigation ul.menu > li.has-mega-menu > a::after,
+.vertical-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.vertical-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.vertical-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "nutritix-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: auto;
+    float: right;
+  }
+
+  .main-navigation ul.menu ul li.menu-item-has-children > a::after, .main-navigation ul.menu ul li.page_item_has_children > a::after,
+.main-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.main-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+    font-family: "nutritix-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    float: right;
+    margin-left: 10px;
+    line-height: 1.5;
+  }
+
+  .demo_store a.woocommerce-store-notice__dismiss-link::before {
+    font-family: "nutritix-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-right: 0.3342343017em;
+  }
+
+  .addresses header.title a {
+    display: block;
+    width: 1em;
+    height: 1em;
+    text-indent: -9999px;
+    position: relative;
+    padding: 0.875em;
+    margin-top: 0.6180469716em;
+  }
+  .addresses header.title a::before {
+    font-family: "nutritix-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    line-height: 1.618;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-indent: 0;
+  }
+
+  /**
+   * Wishlists
+   */
+  #wl-wrapper .wl-tabs > li.active::after {
+    font-family: "nutritix-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    display: block !important;
+    position: absolute;
+    top: 50%;
+    height: 1em;
+    width: 1em;
+    margin-top: -0.5em;
+  }
+}
+ul.wishlist_table.mobile .remove_from_wishlist:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.slick-prev:before {
+  content: "";
+}
+[dir=rtl] .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-prev:before {
+  content: "";
+}
+
+.slick-next:before {
+  content: "";
+}
+[dir=rtl] .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-next:before {
+  content: "";
+}
+
+.arrow-style-3 .slick-prev:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-prev:before {
+  content: "";
+}
+.arrow-style-3 .slick-next:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-next:before {
+  content: "";
+}
+
+body.loading {
+  position: relative;
+}
+body.loading::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  font-size: 40px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  display: block;
+  z-index: 999999;
+  color: #fff;
+}
+body.loading:before {
+  content: "";
+  display: block;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999998;
+}
+
+.woocommerce-cart .cart-empty:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--light);
+  display: block;
+  margin-bottom: 50px;
+}
+
+h2.resp-accordion:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 10px;
+}
+h2.resp-accordion.active:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_product_categories .icon-minus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-minus:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+}
+.widget_product_categories .icon-plus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-plus:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+}
+
+.widget_product_brands ul li,
+.widget_product_categories ul li {
+  margin-bottom: 0.875em;
+  padding-bottom: 0.875em;
+  border-bottom: 1px solid var(--border);
+  font-weight: 600;
+}
+.widget_product_brands ul li:last-child,
+.widget_product_categories ul li:last-child {
+  border-bottom: none;
+}
+.widget_product_brands ul li .count,
+.widget_product_categories ul li .count {
+  font-weight: 400;
+  color: var(--text-light);
+  margin-left: 5px;
+}
+.widget_product_brands ul li a,
+.widget_product_categories ul li a {
+  color: var(--text-light);
+}
+.widget_product_brands ul li a:hover,
+.widget_product_categories ul li a:hover {
+  color: var(--accent);
+}
+.widget_product_brands ul li a:hover:before,
+.widget_product_categories ul li a:hover:before {
+  background-color: var(--primary);
+}
+.widget_product_brands ul li a:before,
+.widget_product_categories ul li a:before {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 12px;
+  vertical-align: middle;
+  background-color: #CCCCCC;
+  transform: skewX(-10deg);
+}
+.widget_product_brands ul li.current-cat a,
+.widget_product_categories ul li.current-cat a {
+  color: var(--accent);
+}
+.widget_product_brands ul li.current-cat a:before,
+.widget_product_categories ul li.current-cat a:before {
+  background-color: var(--primary);
+}
+
+.nutritix-active-filters .widget_layered_nav_filters ul li a:before {
+  content: "";
+}
+
+.shop-action a[class*=product_type_]:before {
+  content: "";
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+.shop-action .woosc-btn:before,
+.shop-action .woosq-btn:before,
+.shop-action .woosw-btn:before,
+.shop-action a[class*=product_type_]:before, .product-list .woosc-btn:before,
+.product-list .woosq-btn:before,
+.product-list .woosw-btn:before,
+.product-list a[class*=product_type_]:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+.shop-action .woosw-btn:before, .product-list .woosw-btn:before {
+  content: "";
+}
+.shop-action .woosw-btn.woosw-added:before, .product-list .woosw-btn.woosw-added:before {
+  content: "";
+  color: red;
+  margin-right: 0;
+}
+.shop-action .woosw-btn.woosw-adding::after, .product-list .woosw-btn.woosw-adding::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  line-height: inherit;
+  content: "" !important;
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+  transform: translate(0);
+  transform-origin: center;
+  background-color: transparent;
+}
+.shop-action .woosw-btn.woosw-adding:before, .product-list .woosw-btn.woosw-adding:before {
+  opacity: 0;
+}
+.shop-action .woosc-btn:before, .product-list .woosc-btn:before {
+  content: "";
+}
+.shop-action .woosq-btn:before, .product-list .woosq-btn:before {
+  content: "";
+}
+
+.single-product div.product .entry-summary .woosc-btn:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+}
+.single-product div.product .entry-summary .woosw-btn:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+}
+.single-product div.product .entry-summary .woosw-btn.woosw-added:before {
+  content: "";
+}
+
+a.read-more:after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+}
+
+.ajax-search .widget_product_search .woocommerce-product-search.loading::before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: mf-spin-fast 1s linear infinite;
+  margin-top: -9px;
+  z-index: 999;
+}
+.ajax-search .widget_product_search .woocommerce-product-search.loading button[type=submit] i {
+  opacity: 0;
+}
+
+.elementor-widget-nutritix-language-switcher.language-switcher-style-mobile .nutritix-language-switcher .language-switcher-head:after {
+  position: relative;
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  line-height: 12px;
+}
+
+.loading-quick-shop .product-transition::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.search-by-category .input-dropdown-inner > a:after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.popup-navigation ul.menu > li.menu-item-has-children > a:after, .popup-navigation ul.menu > li.page_item_has_children > a:after, .popup-navigation ul.menu > li.has-mega-menu > a:after,
+.popup-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.popup-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.popup-navigation ul.nav-menu > li.has-mega-menu > a:after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  font-size: 16px;
+}
+
+.popup-navigation ul.menu ul li.menu-item-has-children > a::after, .popup-navigation ul.menu ul li.page_item_has_children > a::after,
+.popup-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.popup-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  float: right;
+  margin-left: 0.5em;
+  line-height: 20px;
+  font-size: 14px;
+}
+
+.nutritix-elementor-single-product .shop-button a[class*=product_type_]:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+  margin-top: 3px;
+  float: right;
+  transition: all 0.3s ease;
+}
+
+.elementor-widget-nutritix-image-gallery .column-item a:after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.woosw-list .woosw-content-mid-notice:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--light);
+  display: block;
+  margin-bottom: 50px;
+}
+
+@keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-webkit-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-o-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-ms-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+#dokan-seller-listing-wrap .store-data .store-phone i:before {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-top: -2px;
+  margin-right: 5px;
+}
+
+.filter-close:after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.related > h2:first-child:after,
+.upsells > h2:first-child:after {
+  font-family: "nutritix-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 18px;
+  margin-left: 10px;
+  color: var(--primary);
+}
